@@ -58,7 +58,8 @@ A curated collection of vulnerability research articles and blog posts.
 - [Kubernetes Privilege Escalation: Container Escape == Cluster Admin?](https://www.youtube.com/watch?v=oc1tq_r6VNM) by Yuval Avrahami and Shaul Ben Hai, November 28, 2022  
 
 ### Containers  
-- [The COW (Container On Windows) Who Escaped the Silo](https://www.youtube.com/watch?v=e6oegr3cl4U) by Eran Segal, Nov 17, 2022  
+- [The COW (Container On Windows) Who Escaped the Silo](https://www.youtube.com/watch?v=e6oegr3cl4U) by Eran Segal, Nov 17, 2022
+- [#HITB2021SIN D2T2 - Container Escape In 2021 - Li Qiang](https://www.youtube.com/watch?v=WBC7hhgMvQQ) by Li Qiang, Sep 2, 2021
 - [Escaping Virtualized Containers](https://www.youtube.com/watch?v=0hrv0qyOEd0) (🔥🔥) by Yuval Avrahami, May 14, 2021  
 - [A Compendium of Container Escapes](https://www.youtube.com/watch?v=BQlqita2D2s) by Capsule8, Jan 15, 2020
 - [#HITBLockdown D2 - Prisoner Number 6 - Nimrod Stoler](https://www.youtube.com/watch?v=aMBq0LZo_2I) (🔥) by Nimrod Stoler, 2020  
