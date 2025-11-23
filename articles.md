@@ -116,7 +116,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ---
 ## Web  
-
+- [Breaking Oracle’s Identity Manager: Pre-Auth RCE (CVE-2025-61757)](https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/) by Adam Kues and Shubham Shah, November 20, 2025  
 - [How I Found a Critical Password Reset Bug in the BB program(and Got $4,000)](https://medium.com/@s41n1k/how-i-found-a-critical-password-reset-bug-in-the-bb-program-and-got-4-000-a22fffe285e1)
 - [Account Takeover via Password Reset without user interactions](https://gitlab.com/gitlab-org/gitlab/-/issues/436084)
 - [Shockwave Identifies Web Cache Deception and Account Takeover Vulnerability affecting OpenAI's ChatGPT](https://www.shockwave.cloud/blog/shockwave-works-with-openai-to-fix-critical-chatgpt-vulnerability) by Gal Nagli, July 15, 2024
