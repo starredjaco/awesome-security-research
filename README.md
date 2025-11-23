@@ -67,7 +67,9 @@ A curated collection of vulnerability research articles and blog posts.
 - [Escaping Virtualized Containers](https://www.youtube.com/watch?v=0hrv0qyOEd0) (🔥🔥) by Yuval Avrahami, May 14, 2021  
 - [A Compendium of Container Escapes](https://www.youtube.com/watch?v=BQlqita2D2s) by Capsule8, Jan 15, 2020
 - [#HITBLockdown D2 - Prisoner Number 6 - Nimrod Stoler](https://www.youtube.com/watch?v=aMBq0LZo_2I) (🔥) by Nimrod Stoler, 2020  
-- [CG - Prisoner Number Six - Nimrod Stoler & Lavi Lazarovitz](https://www.youtube.com/watch?v=sPN5bRGoZlI) (🔥) by Nimrod Stoler, August 7, 2019  
+- [CG - Prisoner Number Six - Nimrod Stoler & Lavi Lazarovitz](https://www.youtube.com/watch?v=sPN5bRGoZlI) (🔥) by Nimrod Stoler, August 7, 2019
+- [#HITB2016AMS D1T1 - Escape From The Docker KVM QEMU Machine - Shengping Wang and Xu Liu](https://www.youtube.com/watch?v=XcvRfg3_ACY) by Xu Liu and Shengping Wang, Jun 21, 2016
+- [Vulnerability Exploitation In Docker Container Environments](https://www.youtube.com/watch?v=77-jaeUKH7c) by Anthony Bettini, Mar 5, 2016   
 
 ---  
 ## Tools  
