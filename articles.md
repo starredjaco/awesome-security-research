@@ -93,15 +93,17 @@ This file contains the **full list** of articles — the main [README](README.md
 - [A new method for container escape using file-based DirtyCred](https://starlabs.sg/blog/2023/07-a-new-method-for-container-escape-using-file-based-dirtycred/) by Choo Yi Kai, July 25, 2023  
 - [Container escape using dirtypipe](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2022/03/19/container-escape-through-dirtypipe), March 19, 2022  
 - [Escaping privileged containers for fun](https://pwning.systems/posts/escaping-containers-for-fun/) by Jordy Zomer, March 6, 2022
+- [New Linux Vulnerability CVE-2022-0492 Affecting Cgroups: Can Containers Escape?](https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/) by Yuval Avrahami, March 3, 2022  
 - [Container escape techniques](https://reaper.gitbook.io/my-penetration-test-guide/privilege-escalation/linux-privilege-escalation/container-escape-techniques)  
 - [Container Breakout – Part 2](https://tbhaxor.com/container-breakout-part-2/) by Gurkirat Singh, Sep 10, 2021  
 - [Container Breakout – Part 1](https://tbhaxor.com/container-breakout-part-1/) by Gurkirat Singh, Sep 10, 2021
-- [Container escape in 2021 (binfmt_misc)](https://conference.hitb.org/hitbsecconf2021sin/materials/D2T2%20-%20Ccntainer%20Escape%20in%202021%20-%20Li%20Qiang.pdf) by Li Qiang, Sep 2, 2021  
+- [Container escape in 2021 (binfmt_misc) - PDF](https://conference.hitb.org/hitbsecconf2021sin/materials/D2T2%20-%20Ccntainer%20Escape%20in%202021%20-%20Li%20Qiang.pdf) by Li Qiang, Sep 2, 2021  
 - [Container Breakouts – Part 3: Docker Socket](https://blog.nody.cc/posts/container-breakouts-part3/) by Jan Harrie, July 30, 2020  
 - [Container Breakouts – Part 2: Privileged Container](https://blog.nody.cc/posts/container-breakouts-part2/) by Jan Harrie, July 21, 2020  
 - [Container Breakouts – Part 1: Access to root directory of the Host](https://blog.nody.cc/posts/container-breakouts-part1/) by Jan Harrie, July 15, 2020  
 - [Privileged Container Escapes with Kernel Modules](https://xcellerator.github.io/posts/docker_escape/) by TheXcellerator, Sep 27, 2020   
 - [The Strange Case of How We Escaped the Docker Default Container](https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container) by Nimrod Stoler and Gilad Reti, March 4, 2021
+- [A Complendium of Container Escapes - PDF](https://i.blackhat.com/USA-19/Thursday/us-19-Edwards-Compendium-Of-Container-Escapes-up.pdf) by Brandon Edwards and Nick Freeman from Capsule8, August 2019  
 - [Breaking Out of rkt – 3 New Unpatched CVEs](https://unit42.paloaltonetworks.com/breaking-out-of-coresos-rkt-3-new-cves/) by Yuval Avrahami, May 30, 2019  
 - [The Route to Root: Container Escape Using Kernel Exploitation](https://www.cyberark.com/resources/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation) (🔥) by Nimrod Stoler, March 4, 2019 - [Breaking out of Docker via runC – Explaining CVE-2019-5736](https://unit42.paloaltonetworks.com/breaking-docker-via-runc-explaining-cve-2019-5736/) by Yuval Avrahami, Feb 21, 2019
 - [An Exercise in Practical Container Escapology](https://web.archive.org/web/20210425171222/https://capsule8.com/blog/practical-container-escape-exercise/) by Capsule8, Feb 21, 2019  
