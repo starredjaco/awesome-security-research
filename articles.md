@@ -110,7 +110,10 @@ This file contains the **full list** of articles — the main [README](README.md
 - [How I Hacked Play-with-Docker and Remotely Ran Code on the Host](https://www.cyberark.com/resources/secure-third-party-vendor-and-remote-access/how-i-hacked-play-with-docker-and-remotely-ran-code-on-the-host) (🔥) by Nimrod Stoler, Jan 14, 2019  
 - [Container Basics and Escapes](https://0xn3va.gitbook.io/cheat-sheets/container/overview/basics) by [0xn3va](https://github.com/0xn3va)
 - [Container Breakout Vulnerabilities](https://www.container-security.site/attackers/container_breakout_vulnerabilities.html), by Rory McCune
-- [Csw2016 wang docker_escapetechnology](https://www.slideshare.net/slideshow/csw2016-wang-dockerescapetechnology/60387867) by Wang, 2016   
+- [Csw2016 wang docker_escapetechnology](https://www.slideshare.net/slideshow/csw2016-wang-dockerescapetechnology/60387867) by Wang, 2016  
+- [Understanding and Hardening Linux Containers - PDF](https://www.nccgroup.com/media/eoxggcfy/_ncc_group_understanding_hardening_linux_containers-1-1.pdf) by NCC Group, Jun 29, 2016  
+- [Abusing Privileged and Unprivileged Linux Containers - PDF](https://www.nccgroup.com/media/bjobstnx/_container_whitepaper.pdf) by NCC Group, Jun 29, 2016
+- [PoC for Dirty COW (CVE-2016-5195)](https://github.com/scumjr/dirtycow-vdso) by scumjr, 2016  
 - [Docker breakout exploit analysis (shocker)](https://medium.com/@fun_cuddles/docker-breakout-exploit-analysis-a274fff0e6b3) by Jen Andre, Jun 19, 2014
 - [Shocker / Docker Breakout PoC](https://github.com/gabrtv/shocker) by Gabe Monroy, Jun 18, 2014
 - [shocker: docker PoC VMM-container breakout](http://stealth.openwall.net/xSports/shocker.c) by Sebastian Krahmer, Jun 18, 2014   
