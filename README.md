@@ -58,6 +58,8 @@ A curated collection of vulnerability research articles and blog posts.
 - [Kubernetes Privilege Escalation: Container Escape == Cluster Admin?](https://www.youtube.com/watch?v=oc1tq_r6VNM) by Yuval Avrahami and Shaul Ben Hai, November 28, 2022  
 
 ### Containers  
+
+- [How to Use "Leaky Vessels" for Container Escape in #kubernetes w/ Jay Beale](https://www.youtube.com/watch?v=HCYv0q6Yu1w) by Jay Beale, Feb 21, 2024  
 - [Container Escape: All You Need Is Cap (Capabilities)](https://www.youtube.com/watch?v=iALZWtWwRyc) by Eran Ayalon and Ilan Sokol, June 7 2023  
 - [The COW (Container On Windows) Who Escaped the Silo](https://www.youtube.com/watch?v=e6oegr3cl4U) by Eran Segal, Nov 17, 2022
 - [#HITB2021SIN D2T2 - Container Escape In 2021 - Li Qiang](https://www.youtube.com/watch?v=WBC7hhgMvQQ) by Li Qiang, Sep 2, 2021
