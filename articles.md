@@ -82,7 +82,8 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## 🐳 Containers  
-- [Container Escapes 101 - Host memory meddling with ptrace](https://some-natalie.dev/container-escapes-ptrace/) by Natalie Somersall, Sep 5, 2025  
+- [Container Escapes 101 - Host memory meddling with ptrace](https://some-natalie.dev/container-escapes-ptrace/) by Natalie Somersall, Sep 5, 2025
+- [Exploit Notes - Docker Escape](https://exploit-notes.hdks.org/exploit/container/docker/docker-escape/) by hdks, Nov 2024  
 - [Container Breakouts: Escape Techniques in Cloud Environments](https://unit42.paloaltonetworks.com/container-escape-techniques/) by Yosef Yaakov and Bar Ben-Michael, July 18, 2024  
 - [Buildkit GRPC SecurityMode privilege check: Build-time container breakout (CVE-2024-23653)](https://labs.snyk.io/resources/cve-2024-23653-buildkit-grpc-securitymode-privilege-check/) by Rory McNamara, Jan 31, 2024 
 - [Buildkit mount cache race: Build-time race condition container breakout (CVE-2024-23651)](https://labs.snyk.io/resources/cve-2024-23651-docker-buildkit-mount-cache-race/) by Rory McNamara, Jan 31, 2024 
