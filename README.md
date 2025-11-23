@@ -50,7 +50,8 @@ A curated collection of vulnerability research articles and blog posts.
 - [DEF CON 30 - James Kettle - Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling](https://www.youtube.com/watch?v=B8KW8KPVcUo) (🔥🔥) by James Kettle, October 20, 2022  
 - [CG - Trust Me, I'm a Robot: Can we trust RPA with our most guarded secrets?](https://www.youtube.com/watch?v=EbsdV38P0wI) (🔥🔥) by Nimrod Stoler and Nethanel Coppenhagen, Sept 4 2022
 - [#HITBLockdown D1 - 60 CVEs In 60 Days - Eran Shimony](https://www.youtube.com/watch?v=HFO8GCGQcUc) (🔥) by Eran Shimony, May 21, 2020  
-- [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), August 28 2018  
+- [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), August 28 2018
+- [A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!](https://www.youtube.com/watch?v=voTHFdL9S2k&t=66s) by Orange Tsai, Jan 8, 2020  
 - [DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), April 20, 2016   
 - [REcon 2015 - The movfuscator (Christopher Domas)](https://www.youtube.com/watch?v=2VF_wPkiBJY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax), Feb 17, 2016  
 
