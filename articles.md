@@ -82,7 +82,8 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## 🐳 Containers  
-- [Container Breakouts: Escape Techniques in Cloud Environments](https://unit42.paloaltonetworks.com/container-escape-techniques/)  by Yosef Yaakov and Bar Ben-Michael, July 18, 2024  
+- [Container Escapes 101 - Host memory meddling with ptrace](https://some-natalie.dev/container-escapes-ptrace/) by Natalie Somersall, Sep 5, 2025  
+- [Container Breakouts: Escape Techniques in Cloud Environments](https://unit42.paloaltonetworks.com/container-escape-techniques/) by Yosef Yaakov and Bar Ben-Michael, July 18, 2024  
 - [Docker Security – Step-by-Step Hardening (Docker Hardening)](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/) by ReynardSec, October 16, 2023
 - [A new method for container escape using file-based DirtyCred](https://starlabs.sg/blog/2023/07-a-new-method-for-container-escape-using-file-based-dirtycred/) by Choo Yi Kai, July 25, 2023  
 - [Container escape using dirtypipe](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2022/03/19/container-escape-through-dirtypipe), March 19, 2022  
