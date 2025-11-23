@@ -103,10 +103,11 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Privileged Container Escapes with Kernel Modules](https://xcellerator.github.io/posts/docker_escape/) by TheXcellerator, Sep 27, 2020   
 - [The Strange Case of How We Escaped the Docker Default Container](https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container) by Nimrod Stoler and Gilad Reti, March 4, 2021
 - [Breaking Out of rkt – 3 New Unpatched CVEs](https://unit42.paloaltonetworks.com/breaking-out-of-coresos-rkt-3-new-cves/) by Yuval Avrahami, May 30, 2019  
-- [The Route to Root: Container Escape Using Kernel Exploitation](https://www.cyberark.com/resources/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation) (🔥) by Nimrod Stoler, March 4, 2019 - [Breaking out of Docker via runC – Explaining CVE-2019-5736](https://unit42.paloaltonetworks.com/breaking-docker-via-runc-explaining-cve-2019-5736/) by Yuval Avrahami, Feb 21, 2019  
+- [The Route to Root: Container Escape Using Kernel Exploitation](https://www.cyberark.com/resources/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation) (🔥) by Nimrod Stoler, March 4, 2019 - [Breaking out of Docker via runC – Explaining CVE-2019-5736](https://unit42.paloaltonetworks.com/breaking-docker-via-runc-explaining-cve-2019-5736/) by Yuval Avrahami, Feb 21, 2019
+- [An Exercise in Practical Container Escapology](https://web.archive.org/web/20210425171222/https://capsule8.com/blog/practical-container-escape-exercise/) by Capsule8, Feb 21, 2019  
 - [How I Hacked Play-with-Docker and Remotely Ran Code on the Host](https://www.cyberark.com/resources/secure-third-party-vendor-and-remote-access/how-i-hacked-play-with-docker-and-remotely-ran-code-on-the-host) (🔥) by Nimrod Stoler, Jan 14, 2019
 - [Container Basics and Escapes](https://0xn3va.gitbook.io/cheat-sheets/container/overview/basics) by [0xn3va](https://github.com/0xn3va)
-- [Container Breakout Vulnerabilities](https://www.container-security.site/attackers/container_breakout_vulnerabilities.html), by Rory McCune
+- [Container Breakout Vulnerabilities](https://www.container-security.site/attackers/container_breakout_vulnerabilities.html), by Rory McCune  
 - [Docker breakout exploit analysis (shocker)](https://medium.com/@fun_cuddles/docker-breakout-exploit-analysis-a274fff0e6b3) by Jen Andre, Jun 19, 2014
 - [Shocker / Docker Breakout PoC](https://github.com/gabrtv/shocker) by Gabe Monroy, Jun 18, 2014
 - [shocker: docker PoC VMM-container breakout](http://stealth.openwall.net/xSports/shocker.c) by Sebastian Krahmer, Jun 18, 2014   
