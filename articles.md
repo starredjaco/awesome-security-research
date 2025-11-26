@@ -91,7 +91,8 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Buildkit build-time container teardown arbitrary delete (CVE-2024-23652)](https://labs.snyk.io/resources/cve-2024-23652-buildkit-build-time-container-teardown-arbitrary-delete/) by Rory McNamara, Jan 31, 2024  
 - [Vulnerability: runc process.cwd and leaked fds container breakout (CVE-2024-21626)](https://labs.snyk.io/resources/cve-2024-21626-runc-process-cwd-container-breakout/) by Rory McNamara, Jan 31, 2024  
 - [Docker Security – Step-by-Step Hardening (Docker Hardening)](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/) by ReynardSec, October 16, 2023
-- [A new method for container escape using file-based DirtyCred](https://starlabs.sg/blog/2023/07-a-new-method-for-container-escape-using-file-based-dirtycred/) by Choo Yi Kai, July 25, 2023  
+- [A new method for container escape using file-based DirtyCred](https://starlabs.sg/blog/2023/07-a-new-method-for-container-escape-using-file-based-dirtycred/) by Choo Yi Kai, July 25, 2023
+- [Container breakout (overview)](https://sec.vnpt.vn/2023/07/container-breakout-overview) by Red Team, July 25, 2023  
 - [Container escape using dirtypipe](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2022/03/19/container-escape-through-dirtypipe), March 19, 2022  
 - [Escaping privileged containers for fun](https://pwning.systems/posts/escaping-containers-for-fun/) by Jordy Zomer, March 6, 2022  
 - [New Linux Vulnerability CVE-2022-0492 Affecting Cgroups: Can Containers Escape?](https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/) by Yuval Avrahami, March 3, 2022  
