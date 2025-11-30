@@ -103,7 +103,8 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Container Breakout – Part 2](https://tbhaxor.com/container-breakout-part-2/) by Gurkirat Singh, Sep 10, 2021   
 - [Container Breakout – Part 1](https://tbhaxor.com/container-breakout-part-1/) by Gurkirat Singh, Sep 10, 2021  
 - [Container escape in 2021 (binfmt_misc) - PDF](https://conference.hitb.org/hitbsecconf2021sin/materials/D2T2%20-%20Ccntainer%20Escape%20in%202021%20-%20Li%20Qiang.pdf) by Li Qiang, Sep 2, 2021
-- [The Strange Case of How We Escaped the Docker Default Container](https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container) by Nimrod Stoler and Gilad Reti, March 4, 2021  
+- [The Strange Case of How We Escaped the Docker Default Container](https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container) by Nimrod Stoler and Gilad Reti, March 4, 2021
+- [Towards Improving Container Security by Preventing Runtime Escapes (PDF)](https://www.osti.gov/servlets/purl/1890908), 2021  
 - [Container Breakouts – Part 3: Docker Socket](https://blog.nody.cc/posts/container-breakouts-part3/) by Jan Harrie, July 30, 2020  
 - [Container Breakouts – Part 2: Privileged Container](https://blog.nody.cc/posts/container-breakouts-part2/) by Jan Harrie, July 21, 2020  
 - [Container Breakouts – Part 1: Access to root directory of the Host](https://blog.nody.cc/posts/container-breakouts-part1/) by Jan Harrie, July 15, 2020  
