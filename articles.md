@@ -121,7 +121,8 @@ This file contains the **full list** of articles — the main [README](README.md
 - [PoC for Dirty COW (CVE-2016-5195)](https://github.com/scumjr/dirtycow-vdso) by scumjr, 2016  
 - [Docker breakout exploit analysis (shocker)](https://medium.com/@fun_cuddles/docker-breakout-exploit-analysis-a274fff0e6b3) by Jen Andre, Jun 19, 2014
 - [Shocker / Docker Breakout PoC](https://github.com/gabrtv/shocker) by Gabe Monroy, Jun 18, 2014
-- [shocker: docker PoC VMM-container breakout](http://stealth.openwall.net/xSports/shocker.c) by Sebastian Krahmer, Jun 18, 2014   
+- [shocker: docker PoC VMM-container breakout](http://stealth.openwall.net/xSports/shocker.c) by Sebastian Krahmer, Jun 18, 2014
+- [Memory inside Linux containers](https://fabiokung.com/2014/03/13/memory-inside-linux-containers/) by Fabio Kung, March 13, 2014   
 
 
 --- 
