@@ -30,7 +30,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html) by [Carsten Sandker](https://x.com/0xcsandker), Jan 10, 2021  
 - [Zerologon: Unauthenticated domain controller compromise by subverting Netlogon cryptography (CVE-2020-1472) (PDF)](https://cybersecurity.bureauveritas.com/uploads/whitepapers/Zerologon.pdf) (🔥)  by Tom Tervoort (Secura), Sep, 2020  
 - [Windows Exploitation](https://web.archive.org/web/20200507040017/https://fullpwnops.com/windows-exploitation-pathway.html) by [Fu11Shade](https://web.archive.org/web/20200713114317/https://github.com/fullshade/), May, 2020
-- [WATCHING THE WATCHDOG: PROTECTING KERBEROS AUTHENTICATION WITH NETWORK MONITORING](https://blackhat.com/docs/eu-15/materials/eu-15-Beery-Watching-The-Watchdog-Protecting-Kerberos-Authentication-With-Network-Monitoring-wp.pdf) by Tal Be’ery and Michael Cherny, Nov 2015  
+- [WATCHING THE WATCHDOG: PROTECTING KERBEROS AUTHENTICATION WITH NETWORK MONITORING (PDF)](https://blackhat.com/docs/eu-15/materials/eu-15-Beery-Watching-The-Watchdog-Protecting-Kerberos-Authentication-With-Network-Monitoring-wp.pdf) by Tal Be’ery and Michael Cherny, Nov 2015  
 
 
 ### Privilege Escalation  
