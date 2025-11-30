@@ -49,6 +49,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [Trace Me if You Can: Bypassing Linux Syscall Tracing](https://www.youtube.com/watch?v=cVf7Ww67j68) by Rex Guo & Junyuan Zeng, Nov 17, 2022  
 - [DEF CON 30 - James Kettle - Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling](https://www.youtube.com/watch?v=B8KW8KPVcUo) (🔥🔥) by James Kettle, October 20, 2022  
 - [CG - Trust Me, I'm a Robot: Can we trust RPA with our most guarded secrets?](https://www.youtube.com/watch?v=EbsdV38P0wI) (🔥🔥) by Nimrod Stoler and Nethanel Coppenhagen, Sept 4 2022
+- [DEF CON 29 - Ian Coldwater, Chad Rikansrud - Real Life Story of the 1st Mainframe Container Breakout](https://www.youtube.com/watch?v=7DXF7YDBf-g) by Ian Coldwater and Chad, Aug 5, 2021  
 - [#HITBLockdown D1 - 60 CVEs In 60 Days - Eran Shimony](https://www.youtube.com/watch?v=HFO8GCGQcUc) (🔥) by Eran Shimony, May 21, 2020  
 - [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), August 28 2018
 - [A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!](https://www.youtube.com/watch?v=voTHFdL9S2k&t=66s) by Orange Tsai, Jan 8, 2020  
