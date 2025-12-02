@@ -87,9 +87,10 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ## 🐳 Containers  
 - [Container Escape Techniques: Breaking Out of Docker, Kubernetes, and Beyond](https://danger-team.org/container-escape-techniques-breaking-out-of-docker-kubernetes-and-beyond/#what-are-containers-and-why-should-security-teams-care) by Rasoul, March 17, 2025  
-- [Container Escapes 101 - Host memory meddling with ptrace](https://some-natalie.dev/container-escapes-ptrace/) by Natalie Somersall, Sep 5, 2025
+- [Container Escapes 101 - Host memory meddling with ptrace](https://some-natalie.dev/container-escapes-ptrace/) by Natalie Somersall, Sep 5, 2025  
 - [Exploit Notes - Docker Escape](https://exploit-notes.hdks.org/exploit/container/docker/docker-escape/) by hdks, Nov 2024  
-- [Container Breakouts: Escape Techniques in Cloud Environments](https://unit42.paloaltonetworks.com/container-escape-techniques/) by Yosef Yaakov and Bar Ben-Michael, July 18, 2024  
+- [Container Breakouts: Escape Techniques in Cloud Environments](https://unit42.paloaltonetworks.com/container-escape-techniques/) by Yosef Yaakov and Bar Ben-Michael, July 18, 2024
+- [Breaking Free: 26 Advanced Techniques to Escape Docker Containers](https://infosecwriteups.com/breaking-free-26-advanced-techniques-to-escape-docker-containers-530049816b55) by ElNiak  Apr 8, 2024  
 - [Buildkit GRPC SecurityMode privilege check: Build-time container breakout (CVE-2024-23653)](https://labs.snyk.io/resources/cve-2024-23653-buildkit-grpc-securitymode-privilege-check/) by Rory McNamara, Jan 31, 2024 
 - [Buildkit mount cache race: Build-time race condition container breakout (CVE-2024-23651)](https://labs.snyk.io/resources/cve-2024-23651-docker-buildkit-mount-cache-race/) by Rory McNamara, Jan 31, 2024 
 - [Buildkit build-time container teardown arbitrary delete (CVE-2024-23652)](https://labs.snyk.io/resources/cve-2024-23652-buildkit-build-time-container-teardown-arbitrary-delete/) by Rory McNamara, Jan 31, 2024  
