@@ -42,7 +42,9 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Windows Privilege Escalation - DLL Proxying](https://itm4n.github.io/dll-proxying/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), Apr 18, 2019  
 
 ### Symbolic Links  
-- [Piping Hot Fortinet Vulnerabilities (PDF)](https://pentera.io/wp-content/uploads/2024/11/pentera_labs_fortinet_cves-1.pdf) by Nir Chacko, November 2024  
+- [Piping Hot Fortinet Vulnerabilities (PDF)](https://pentera.io/wp-content/uploads/2024/11/pentera_labs_fortinet_cves-1.pdf) by Nir Chacko, November 2024
+- [Breaking Barriers and Assumptions: Techniques for Privilege Escalation on Windows: Part 2](https://www.zerodayinitiative.com/blog/2024/7/30/breaking-barriers-and-assumptions-techniques-for-privilege-escalation-on-windows-part-2) by Michael DePlante and Nicholas Zubrisky, July 31, 2024  
+- [Breaking Barriers and Assumptions: Techniques for Privilege Escalation on Windows: Part 1](https://www.zerodayinitiative.com/blog/2024/7/29/breaking-barriers-and-assumptions-techniques-for-privilege-escalation-on-windows-part-1) by Michael DePlante and Nicholas Zubrisky, July 30, 2024  
 - [Avast Anti-Virus privileged arbitrary file create on virus quarantine (CVE-2023-1585 and CVE-2023-1587)](https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html) by Denis Skvortcov, April 26, 2023  
 - [Breaking Antivirus: Arbitrary file deletion using Symbolic link](https://nixhacker.com/breaking-antivirus-arbitrary-delete-using-symbolic-link/) Apr 28, 2020  
 - [An introduction to privileged file operation abuse on Windows](https://offsec.almond.consulting/intro-to-file-operation-abuse-on-Windows.html) by @clavoillotte 
