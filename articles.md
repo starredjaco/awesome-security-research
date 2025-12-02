@@ -53,7 +53,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## 🐧 Linux  
-
+- [CVE-2021-22555: Turning \x00\x00 into 10000$](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html) by Andy Nguyen (theflow@), 2021    
 --- 
 
 ## ☁️ Kubernetes & Cloud   
