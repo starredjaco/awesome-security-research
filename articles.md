@@ -34,10 +34,13 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ### Privilege Escalation  
+- [Hijacking the Windows "MareBackup" Scheduled Task for Privilege Escalation](https://itm4n.github.io/hijacking-the-windows-marebackup-scheduled-task-for-privilege-escalation/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), May 20, 2025    
 - [From NETWORK SERVICE to SYSTEM](https://decoder.cloud/2020/05/04/from-network-service-to-system/) by [decoder](https://x.com/decoder_it), May 4, 2020
 - [Faxing Your Way to SYSTEM — Part Two](https://windows-internals.com/faxing-your-way-to-system/) (🔥🔥) by [Yarden Shafir](https://x.com/yarden_shafir) & [Alex Ionescu](https://x.com/aionescu), Apr 30, 2020  - [Faxhell tool](https://github.com/ionescu007/faxhell)  
 - [Windows DLL Hijacking (Hopefully) Clarified](https://itm4n.github.io/windows-dll-hijacking-clarified/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), Apr 24, 2020  
-- [CVE-2020-0729: Remote Code Execution Through .LNK Files](https://www.zerodayinitiative.com/blog/2020/3/25/cve-2020-0729-remote-code-execution-through-lnk-files) by Trend Micro Research Team, March 26, 2020  
+- [CVE-2020-0729: Remote Code Execution Through .LNK Files](https://www.zerodayinitiative.com/blog/2020/3/25/cve-2020-0729-remote-code-execution-through-lnk-files) by Trend Micro Research Team, March 26, 2020
+- [CVE-2020-0863 - An Arbitrary File Read Vulnerability in Windows Diagnostic Tracking Service](https://itm4n.github.io/cve-2020-0863-windows-diagtrack-info-disclo/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), March 18, 2020  
+- [CVE-2020-0787 - Windows BITS - An EoP Bug Hidden in an Undocumented RPC Function](https://itm4n.github.io/cve-2020-0787-windows-bits-eop/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), March 11, 2020  
 - [From dropbox(updater) to NT AUTHORITY\SYSTEM](https://decoder.cloud/2019/12/18/from-dropboxupdater-to-nt-authoritysystem/) by [decoder](https://x.com/decoder_it), December 18, 2019  
 - [Windows Privilege Escalation - DLL Proxying](https://itm4n.github.io/dll-proxying/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), Apr 18, 2019  
 
@@ -47,7 +50,12 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Breaking Barriers and Assumptions: Techniques for Privilege Escalation on Windows: Part 1](https://www.zerodayinitiative.com/blog/2024/7/29/breaking-barriers-and-assumptions-techniques-for-privilege-escalation-on-windows-part-1) by Michael DePlante and Nicholas Zubrisky, July 30, 2024  
 - [Avast Anti-Virus privileged arbitrary file create on virus quarantine (CVE-2023-1585 and CVE-2023-1587)](https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html) by Denis Skvortcov, April 26, 2023  
 - [Breaking Antivirus: Arbitrary file deletion using Symbolic link](https://nixhacker.com/breaking-antivirus-arbitrary-delete-using-symbolic-link/) Apr 28, 2020  
-- [An introduction to privileged file operation abuse on Windows](https://offsec.almond.consulting/intro-to-file-operation-abuse-on-Windows.html) by @clavoillotte 
+- [An introduction to privileged file operation abuse on Windows](https://offsec.almond.consulting/intro-to-file-operation-abuse-on-Windows.html) by @clavoillotte
+- [Avira Optimizer Local Privilege Escalation](https://enigma0x3.net/2019/08/29/avira-optimizer-local-privilege-escalation/) by enigma0x3, August 29, 2019  
+- [CVE-2019-13382: Local Privilege Escalation in SnagIt](https://enigma0x3.net/2019/07/24/cve-2019-13382-privilege-escalation-in-snagit/) by enigma0x3, July 24, 2019  
+- [CVE-2019-13142: Razer Surround 1.1.63.0 EoP](https://enigma0x3.net/2019/07/05/cve-2019-13142-razer-surround-1-1-63-0-eop/) by enigma0x3, July 5, 2019
+- [Avira VPN (2.15.2.28160) Elevation of Privilege through Insecure Update location](https://enigma0x3.net/2019/03/20/avira-vpn-2-15-2-28160-elevation-of-privilege-through-insecure-update-location/) by enigma0x3, March 20, 2019
+- [Razer Synapse 3 Elevation of Privilege](https://enigma0x3.net/2019/01/) by enigma0x3, January 21, 2019  
   
   
 ---  
