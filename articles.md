@@ -98,7 +98,8 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Docker Security – Step-by-Step Hardening (Docker Hardening)](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/) by ReynardSec, October 16, 2023
 - [A new method for container escape using file-based DirtyCred](https://starlabs.sg/blog/2023/07-a-new-method-for-container-escape-using-file-based-dirtycred/) by Choo Yi Kai, July 25, 2023
 - [Container breakout (overview)](https://sec.vnpt.vn/2023/07/container-breakout-overview) by Red Team, July 25, 2023
-- [[corCTF 2022] CoRJail: From Null Byte Overflow To Docker Escape Exploiting poll_list Objects In The Linux Kernel](https://syst3mfailure.io/corjail/) by D3vil, Aug 17, 2022   
+- [[corCTF 2022] CoRJail: From Null Byte Overflow To Docker Escape Exploiting poll_list Objects In The Linux Kernel](https://syst3mfailure.io/corjail/) by D3vil, Aug 17, 2022
+- [Breakout from the Seccomp Unconfined Container](https://tbhaxor.com/breakout-from-seccomp-unconfined-container/) by Gurkirat Singh, May 2, 2022  
 - [Container escape using dirtypipe](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2022/03/19/container-escape-through-dirtypipe), March 19, 2022  
 - [Escaping privileged containers for fun](https://pwning.systems/posts/escaping-containers-for-fun/) by Jordy Zomer, March 6, 2022  
 - [New Linux Vulnerability CVE-2022-0492 Affecting Cgroups: Can Containers Escape?](https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/) by Yuval Avrahami, March 3, 2022  
