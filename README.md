@@ -50,7 +50,6 @@ A curated collection of vulnerability research articles and blog posts.
 - [DEF CON 30 - James Kettle - Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling](https://www.youtube.com/watch?v=B8KW8KPVcUo) (🔥🔥) by James Kettle, October 20, 2022  
 - [CG - Trust Me, I'm a Robot: Can we trust RPA with our most guarded secrets?](https://www.youtube.com/watch?v=EbsdV38P0wI) (🔥🔥) by Nimrod Stoler and Nethanel Coppenhagen, Sept 4 2022
 - [DEF CON 29 - Ian Coldwater, Chad Rikansrud - Real Life Story of the 1st Mainframe Container Breakout](https://www.youtube.com/watch?v=7DXF7YDBf-g) by Ian Coldwater and Chad, Aug 5, 2021
-- [#HITBLockdown D2 - Prisoner Number 6 - Nimrod Stoler](https://www.youtube.com/watch?v=aMBq0LZo_2I) (🔥) by Nimrod Stoler, Jun 3, 2020  
 - [#HITBLockdown D1 - 60 CVEs In 60 Days - Eran Shimony](https://www.youtube.com/watch?v=HFO8GCGQcUc) (🔥) by Eran Shimony, May 21, 2020  
 - [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), August 28 2018
 - [A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!](https://www.youtube.com/watch?v=voTHFdL9S2k&t=66s) by Orange Tsai, Jan 8, 2020  
@@ -68,7 +67,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [#HITB2021SIN D2T2 - Container Escape In 2021 - Li Qiang](https://www.youtube.com/watch?v=WBC7hhgMvQQ) by Li Qiang, Sep 2, 2021
 - [Escaping Virtualized Containers](https://www.youtube.com/watch?v=0hrv0qyOEd0) (🔥🔥) by Yuval Avrahami, May 14, 2021  
 - [A Compendium of Container Escapes](https://www.youtube.com/watch?v=BQlqita2D2s) by Capsule8, Jan 15, 2020
-- [#HITBLockdown D2 - Prisoner Number 6 - Nimrod Stoler](https://www.youtube.com/watch?v=aMBq0LZo_2I) (🔥) by Nimrod Stoler, 2020  
+- [#HITBLockdown D2 - Prisoner Number 6 - Nimrod Stoler](https://www.youtube.com/watch?v=aMBq0LZo_2I) (🔥) by Nimrod Stoler, Jun 3, 2020  
 - [CG - Prisoner Number Six - Nimrod Stoler & Lavi Lazarovitz](https://www.youtube.com/watch?v=sPN5bRGoZlI) (🔥) by Nimrod Stoler, August 7, 2019
 - [#HITB2016AMS D1T1 - Escape From The Docker KVM QEMU Machine - Shengping Wang and Xu Liu](https://www.youtube.com/watch?v=XcvRfg3_ACY) by Xu Liu and Shengping Wang, Jun 21, 2016
 - [Vulnerability Exploitation In Docker Container Environments](https://www.youtube.com/watch?v=77-jaeUKH7c) by Anthony Bettini, Mar 5, 2016   
