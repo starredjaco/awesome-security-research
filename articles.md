@@ -34,7 +34,8 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ### Privilege Escalation  
-- [Hijacking the Windows "MareBackup" Scheduled Task for Privilege Escalation](https://itm4n.github.io/hijacking-the-windows-marebackup-scheduled-task-for-privilege-escalation/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), May 20, 2025    
+- [Hijacking the Windows "MareBackup" Scheduled Task for Privilege Escalation](https://itm4n.github.io/hijacking-the-windows-marebackup-scheduled-task-for-privilege-escalation/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), May 20, 2025
+- [A Practical Guide to PrintNightmare in 2024](https://itm4n.github.io/printnightmare-exploitation/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), Jan 28, 2024  
 - [From NETWORK SERVICE to SYSTEM](https://decoder.cloud/2020/05/04/from-network-service-to-system/) by [decoder](https://x.com/decoder_it), May 4, 2020
 - [Faxing Your Way to SYSTEM — Part Two](https://windows-internals.com/faxing-your-way-to-system/) (🔥🔥) by [Yarden Shafir](https://x.com/yarden_shafir) & [Alex Ionescu](https://x.com/aionescu), Apr 30, 2020  - [Faxhell tool](https://github.com/ionescu007/faxhell)  
 - [Windows DLL Hijacking (Hopefully) Clarified](https://itm4n.github.io/windows-dll-hijacking-clarified/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), Apr 24, 2020  
