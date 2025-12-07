@@ -7,6 +7,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---   
 
 ## 📝 Table of Contents
+- [AI](#AI)
 - [Windows](#-windows)
 - [Linux](#-linux)
 - [Kubernetes & Cloud](#%EF%B8%8F-kubernetes--cloud)
@@ -22,6 +23,10 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ---  
 
+## AI  
+- [Anatomy of an LLM RCE](https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce) (🔥) by Shaked Reiner, Oct 28, 2024  
+
+
 ## 🪟 Windows   
 
 - [Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks](https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks) (🔥)    
@@ -30,6 +35,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html) by [Carsten Sandker](https://x.com/0xcsandker), Jan 10, 2021  
 - [Zerologon: Unauthenticated domain controller compromise by subverting Netlogon cryptography (CVE-2020-1472) (PDF)](https://cybersecurity.bureauveritas.com/uploads/whitepapers/Zerologon.pdf) (🔥)  by Tom Tervoort (Secura), Sep, 2020  
 - [Windows Exploitation](https://web.archive.org/web/20200507040017/https://fullpwnops.com/windows-exploitation-pathway.html) by [Fu11Shade](https://web.archive.org/web/20200713114317/https://github.com/fullshade/), May, 2020
+- [Beware of the GIF: Account Takeover Vulnerability in Microsoft Teams](https://www.cyberark.com/resources/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams) by Omer Tsarfati, Apr 27, 2020  
 - [WATCHING THE WATCHDOG: PROTECTING KERBEROS AUTHENTICATION WITH NETWORK MONITORING (PDF)](https://blackhat.com/docs/eu-15/materials/eu-15-Beery-Watching-The-Watchdog-Protecting-Kerberos-Authentication-With-Network-Monitoring-wp.pdf) by Tal Be’ery and Michael Cherny, Nov 2015  
 
 
@@ -77,7 +83,12 @@ This file contains the **full list** of articles — the main [README](README.md
 - [All Roads leads to GKE's Host : 4+ Ways to Escape (PDF)](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Billy%20Jheng%20%20%20Muhammad%20Alifa%20Ramdhan%20-%20All%20Roads%20leads%20to%20GKEs%20Host%20%204%2B%20Ways%20to%20Escape.pdf) by Billy and Ramdhan, Oct 20, 2022  
 - [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances](https://unit42.paloaltonetworks.com/azure-container-instances/) by Yuval Avrahami, September 9, 2021
 - [Escaping Virtualized Containers (PDF)](https://i.blackhat.com/USA-20/Thursday/us-20-Avrahami-Escaping-Virtualized-Containers.pdf) by Yuval Avrahami, May 14, 2021  
-- [Gaining Persistency on Vulnerable Lambdas](https://unit42.paloaltonetworks.com/gaining-persistency-vulnerable-lambdas/) by Yuval Avrahami, September 2, 2019  
+- [Gaining Persistency on Vulnerable Lambdas](https://unit42.paloaltonetworks.com/gaining-persistency-vulnerable-lambdas/) by Yuval Avrahami, September 2, 2019
+- [Securing Jenkins: Active Directory and LDAP Services in a Jenkins Environment](https://www.cyberark.com/resources/threat-research-blog/securing-jenkins-active-directory-and-ldap-services-in-a-jenkins-environment) by Nimrod Stoler, Jan 29, 2019  
+- [Tripping the Jenkins Main Security Circuit-Breaker: An Inside Look at Two Jenkins Security Vulnerabilities](https://www.cyberark.com/resources/threat-research-blog/tripping-the-jenkins-main-security-circuit-breaker-an-inside-look-at-two-jenkins-security-vulnerabilities) by Nimrod Stoler, Oct 12, 2018  
+- [Jenkins Plugins – Aladdin’s Lamp and the Sultan of Threats](https://www.cyberark.com/resources/threat-research-blog/jenkins-plugins-aladdin-s-lamp-and-the-sultan-of-threats) by Nimrod Stoler, Sep 26, 2018  
+- [CyberArk Labs Research: Securing Jenkins Java Web Start Agents](https://www.cyberark.com/resources/threat-research-blog/cyberark-labs-research-securing-jenkins-java-web-start-agents) by Nimrod Stoler, Sep 11, 2018   
+- [Configuring and Securing Credentials in Jenkins](https://www.cyberark.com/resources/threat-research-blog/configuring-and-securing-credentials-in-jenkins) by Nimrod Stoler, Aug 15, 2018  
   
 ### by Wiz  
 - [RediShell: Critical Remote Code Execution Vulnerability (CVE-2025-49844) in Redis, 10 CVSS score](https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844) by Benny Isaacs and Nir Brakha, October 6, 2025  
@@ -174,7 +185,8 @@ This file contains the **full list** of articles — the main [README](README.md
 ## 🌐 Identity  
 - [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/) by Dirk-jan Mollema, September 17, 2025    
 - [Forging Passkeys: Exploring the FIDO2 / WebAuthn Attack Surface](https://nullpt.rs/forging-passkeys) by [vmfunc](https://x.com/vmfunc), June 20, 2025
-- [Abusing FIDO2 passkeys to take over Global Administrators in Entra ID](https://cybersecurity.bureauveritas.com/services/information-technology/pentesting-services/what-can-be-pentested/cloud-pentesting/abusing-fido2-passkeys) by Max Rozendaal
+- [Bypassing Windows Hello Without Masks or Plastic Surgery](https://www.cyberark.com/resources/threat-research-blog/bypassing-windows-hello-without-masks-or-plastic-surgery) by Omer Tsarfati, Jul 17, 2023  
+- [Abusing FIDO2 passkeys to take over Global Administrators in Entra ID](https://cybersecurity.bureauveritas.com/services/information-technology/pentesting-services/what-can-be-pentested/cloud-pentesting/abusing-fido2-passkeys) by Max Rozendaal  
 
 
 
@@ -225,7 +237,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ## 🌀 Miscellaneous  
 
-- 🔥 [Trust Me, I’m a Robot: Can We Trust RPA With Our Most Guarded Secrets?](https://www.cyberark.com/resources/threat-research-blog/trust-me-i-m-a-robot-can-we-trust-rpa-with-our-most-guarded-secrets) by Nimrod Stoler
+- [Trust Me, I’m a Robot: Can We Trust RPA With Our Most Guarded Secrets?](https://www.cyberark.com/resources/threat-research-blog/trust-me-i-m-a-robot-can-we-trust-rpa-with-our-most-guarded-secrets) (🔥) by Nimrod Stoler
 - [CVE-2019-1306: Are you my Index?](https://www.zerodayinitiative.com/blog/2019/10/23/cve-2019-1306-are-you-my-index) by [Mikhail Shcherbakov](https://x.com/yu5k3)
 ---
 
