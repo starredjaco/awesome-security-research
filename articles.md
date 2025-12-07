@@ -55,7 +55,9 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Piping Hot Fortinet Vulnerabilities (PDF)](https://pentera.io/wp-content/uploads/2024/11/pentera_labs_fortinet_cves-1.pdf) by Nir Chacko, November 2024
 - [Breaking Barriers and Assumptions: Techniques for Privilege Escalation on Windows: Part 2](https://www.zerodayinitiative.com/blog/2024/7/30/breaking-barriers-and-assumptions-techniques-for-privilege-escalation-on-windows-part-2) by Michael DePlante and Nicholas Zubrisky, July 31, 2024  
 - [Breaking Barriers and Assumptions: Techniques for Privilege Escalation on Windows: Part 1](https://www.zerodayinitiative.com/blog/2024/7/29/breaking-barriers-and-assumptions-techniques-for-privilege-escalation-on-windows-part-1) by Michael DePlante and Nicholas Zubrisky, July 30, 2024  
-- [Avast Anti-Virus privileged arbitrary file create on virus quarantine (CVE-2023-1585 and CVE-2023-1587)](https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html) by Denis Skvortcov, April 26, 2023  
+- [Avast Anti-Virus privileged arbitrary file create on virus quarantine (CVE-2023-1585 and CVE-2023-1587)](https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html) by Denis Skvortcov, April 26, 2023
+- [Breaking Docker Named Pipes SYSTEMatically: Docker Desktop Privilege Escalation – Part 2](https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-2) by Eviatar Gerzi, Apr 19, 2023
+- [Breaking Docker Named Pipes SYSTEMatically: Docker Desktop Privilege Escalation – Part 1](https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1) by Eviatar Gerzi, Feb 2, 2023  
 - [Breaking Antivirus: Arbitrary file deletion using Symbolic link](https://nixhacker.com/breaking-antivirus-arbitrary-delete-using-symbolic-link/) Apr 28, 2020  
 - [An introduction to privileged file operation abuse on Windows](https://offsec.almond.consulting/intro-to-file-operation-abuse-on-Windows.html) by @clavoillotte
 - [Avira Optimizer Local Privilege Escalation](https://enigma0x3.net/2019/08/29/avira-optimizer-local-privilege-escalation/) by enigma0x3, August 29, 2019  
@@ -119,11 +121,12 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Docker Security – Step-by-Step Hardening (Docker Hardening)](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/) by ReynardSec, October 16, 2023
 - [A new method for container escape using file-based DirtyCred](https://starlabs.sg/blog/2023/07-a-new-method-for-container-escape-using-file-based-dirtycred/) by Choo Yi Kai, July 25, 2023
 - [Container breakout (overview)](https://sec.vnpt.vn/2023/07/container-breakout-overview) by Red Team, July 25, 2023
-- [[corCTF 2022] CoRJail: From Null Byte Overflow To Docker Escape Exploiting poll_list Objects In The Linux Kernel](https://syst3mfailure.io/corjail/) by D3vil, Aug 17, 2022
+- [corCTF 2022 CoRJail: From Null Byte Overflow To Docker Escape Exploiting poll_list Objects In The Linux Kernel](https://syst3mfailure.io/corjail/) by D3vil, Aug 17, 2022
 - [Breakout from the Seccomp Unconfined Container](https://tbhaxor.com/breakout-from-seccomp-unconfined-container/) by Gurkirat Singh, May 2, 2022  
 - [Container escape using dirtypipe](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2022/03/19/container-escape-through-dirtypipe), March 19, 2022  
 - [Escaping privileged containers for fun](https://pwning.systems/posts/escaping-containers-for-fun/) by Jordy Zomer, March 6, 2022  
-- [New Linux Vulnerability CVE-2022-0492 Affecting Cgroups: Can Containers Escape?](https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/) by Yuval Avrahami, March 3, 2022  
+- [New Linux Vulnerability CVE-2022-0492 Affecting Cgroups: Can Containers Escape?](https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/) by Yuval Avrahami, March 3, 2022
+- [How Docker Made Me More Capable and the Host Less Secure](https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure) by Alon Zahavi, Feb 8, 2022  
 - [Container escape techniques](https://reaper.gitbook.io/my-penetration-test-guide/privilege-escalation/linux-privilege-escalation/container-escape-techniques)
 - [hide the current process executable file](https://scrivano.org/posts/2022-12-21-hide-self-exe/) by Giuseppe Scrivano, Dec 21, 2021
 - [Container Host Breakout – Part 2](https://tbhaxor.com/container-host-breakout-part-2/) by Gurkirat Singh, Sep 11, 2021    
