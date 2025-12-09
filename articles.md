@@ -34,8 +34,11 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Offensive Windows IPC Internals 2: RPC](https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html#the-series) by [Carsten Sandker](https://x.com/0xcsandker), Feb 21, 2021  
 - [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html) by [Carsten Sandker](https://x.com/0xcsandker), Jan 10, 2021  
 - [Zerologon: Unauthenticated domain controller compromise by subverting Netlogon cryptography (CVE-2020-1472) (PDF)](https://cybersecurity.bureauveritas.com/uploads/whitepapers/Zerologon.pdf) (🔥)  by Tom Tervoort (Secura), Sep, 2020  
-- [Windows Exploitation](https://web.archive.org/web/20200507040017/https://fullpwnops.com/windows-exploitation-pathway.html) by [Fu11Shade](https://web.archive.org/web/20200713114317/https://github.com/fullshade/), May, 2020
-- [Beware of the GIF: Account Takeover Vulnerability in Microsoft Teams](https://www.cyberark.com/resources/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams) by Omer Tsarfati, Apr 27, 2020  
+- [Windows Exploitation](https://web.archive.org/web/20200507040017/https://fullpwnops.com/windows-exploitation-pathway.html) by [Fu11Shade](https://web.archive.org/web/20200713114317/https://github.com/fullshade/), May, 2020  
+- [Beware of the GIF: Account Takeover Vulnerability in Microsoft Teams](https://www.cyberark.com/resources/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams) by Omer Tsarfati, Apr 27, 2020
+- [Calling Local Windows RPC Servers from .NET](https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers-from.html) by James Forshaw, Decemeber 17, 2019
+- [Windows‌ ‌Exploitation‌ ‌Tricks:‌ ‌Spoofing‌ ‌Named‌ ‌Pipe‌ ‌Client‌ ‌PID](https://googleprojectzero.blogspot.com/2019/09/windows-exploitation-tricks-spoofing.html) by James Forshaw, Sep 25, 2019‌
+- [The Definitive Guide on Win32 to NT Path Conversion](https://googleprojectzero.blogspot.com/2016/02/the-definitive-guide-on-win32-to-nt.html) Feb 29, 2016  
 - [WATCHING THE WATCHDOG: PROTECTING KERBEROS AUTHENTICATION WITH NETWORK MONITORING (PDF)](https://blackhat.com/docs/eu-15/materials/eu-15-Beery-Watching-The-Watchdog-Protecting-Kerberos-Authentication-With-Network-Monitoring-wp.pdf) by Tal Be’ery and Michael Cherny, Nov 2015  
 
 
@@ -121,6 +124,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Docker Security – Step-by-Step Hardening (Docker Hardening)](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/) by ReynardSec, October 16, 2023
 - [A new method for container escape using file-based DirtyCred](https://starlabs.sg/blog/2023/07-a-new-method-for-container-escape-using-file-based-dirtycred/) by Choo Yi Kai, July 25, 2023
 - [Container breakout (overview)](https://sec.vnpt.vn/2023/07/container-breakout-overview) by Red Team, July 25, 2023
+- [Understanding Windows Containers Communication](https://www.cyberark.com/resources/threat-research-blog/understanding-windows-containers-communication) by Eviatar Gerzi, Sep 7, 2022  
 - [corCTF 2022 CoRJail: From Null Byte Overflow To Docker Escape Exploiting poll_list Objects In The Linux Kernel](https://syst3mfailure.io/corjail/) by D3vil, Aug 17, 2022
 - [Breakout from the Seccomp Unconfined Container](https://tbhaxor.com/breakout-from-seccomp-unconfined-container/) by Gurkirat Singh, May 2, 2022  
 - [Container escape using dirtypipe](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2022/03/19/container-escape-through-dirtypipe), March 19, 2022  
@@ -135,13 +139,18 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Container Breakout – Part 1](https://tbhaxor.com/container-breakout-part-1/) by Gurkirat Singh, Sep 10, 2021  
 - [Container escape in 2021 (binfmt_misc) - PDF](https://conference.hitb.org/hitbsecconf2021sin/materials/D2T2%20-%20Ccntainer%20Escape%20in%202021%20-%20Li%20Qiang.pdf) by Li Qiang, Sep 2, 2021
 - [The Real-Life Story of the First Mainframe Container Breakout](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Ian%20Coldwater%20Chad%20Rikansrud%20%28Bigendian%20Smalls%29%20-%20The%20Real-Life%20Story%20of%20the%20First%20Mainframe%20Container%20Breakout.pdf) by Ian Coldwater and Chad, Aug 5, 2021  
+- [Microsoft Patched the Issue With Windows Containers That Enabled Silosca](https://unit42.paloaltonetworks.com/windows-container-escape-patch/) by Daniel Prizmant, Aug 5, 2021   
+- [Siloscape: First Known Malware Targeting Windows Containers to Compromise Cloud Environments](https://unit42.paloaltonetworks.com/siloscape/) by Daniel Prizmant, June 7, 2021
+- [Who Contains the Containers?](https://googleprojectzero.blogspot.com/2021/04/who-contains-containers.html) (🔥) by James Forshaw, April 1, 2021   
 - [The Strange Case of How We Escaped the Docker Default Container](https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container) by Nimrod Stoler and Gilad Reti, March 4, 2021
 - [Towards Improving Container Security by Preventing Runtime Escapes (PDF)](https://www.osti.gov/servlets/purl/1890908), 2021  
 - [Container Breakouts – Part 3: Docker Socket](https://blog.nody.cc/posts/container-breakouts-part3/) by Jan Harrie, July 30, 2020  
 - [Container Breakouts – Part 2: Privileged Container](https://blog.nody.cc/posts/container-breakouts-part2/) by Jan Harrie, July 21, 2020  
-- [Container Breakouts – Part 1: Access to root directory of the Host](https://blog.nody.cc/posts/container-breakouts-part1/) by Jan Harrie, July 15, 2020  
-- [Privileged Container Escapes with Kernel Modules](https://xcellerator.github.io/posts/docker_escape/) by TheXcellerator, Sep 27, 2020
+- [Container Breakouts – Part 1: Access to root directory of the Host](https://blog.nody.cc/posts/container-breakouts-part1/) by Jan Harrie, July 15, 2020
+- [Windows Server Containers Are Open, and Here's How You Can Break Out](https://unit42.paloaltonetworks.com/windows-server-containers-vulnerabilities/?pdf=print&lg=en&_wpnonce=49ce28271a) by Daniel Prizmant, July 15, 2020  
+- [Privileged Container Escapes with Kernel Modules](https://xcellerator.github.io/posts/docker_escape/) by TheXcellerator, Sep 27, 2020  
 - [Security Analysis of User Namespaces and Rootless Containers](https://d-nb.info/1222589206/34) by Anton Semjonov, Jan 2020  
+- [What I Learned from Reverse Engineering Windows Containers](https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/) by Daniel Prizmant, Dec 12, 2019  
 - [CVE-2019-11253: Kubernetes API Server JSON/YAML parsing vulnerable to resource exhaustion attack](https://github.com/kubernetes/kubernetes/issues/83253) by Rory McCune, Sep 27, 2019
 - [AppArmor can be bypassed by a malicious image that specifies a volume at /proc](https://github.com/opencontainers/runc/issues/2128), Sep 22, 2019  
 - [A Complendium of Container Escapes - PDF](https://i.blackhat.com/USA-19/Thursday/us-19-Edwards-Compendium-Of-Container-Escapes-up.pdf) by Brandon Edwards and Nick Freeman from Capsule8, August 2019  
