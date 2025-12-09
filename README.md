@@ -83,6 +83,14 @@ A curated collection of vulnerability research articles and blog posts.
 - [OWASP ZAP](https://www.zaproxy.org/) - Webapp scanner  
 - [URL validation bypass cheat sheet](https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet) 
 
+### AI  
+- [AntiGravity](https://antigravity.google/download)
+- [NotebookLM](https://notebooklm.google/)  
+- [DeepWiki](https://deepwiki.com/)  
+- [ChatGPT](https://chatgpt.com/)  
+- [Claude](https://claude.ai/)  
+- [Cursor](https://cursor.com/)  
+
 ### Network  
 - [Wireshark](https://www.wireshark.org/)   
 - [Fiddler](https://www.telerik.com/download/fiddler)   
@@ -110,6 +118,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [PE-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI by hasherezade  
 
 #### Namedpipes  
+- [Pipetap](https://github.com/sensepost/pipetap) by [Leon Jacobs](https://github.com/leonjza)  
 - [PipeViewer - Shows detailed information about named pipes in Windows](https://github.com/cyberark/PipeViewer) by Eviatar Gerzi  
 - [NamedPipeMaster](https://github.com/zeze-zeze/NamedPipeMaster) - Analyze and monitor in named pipes, by zeze-zeze  
 - [IO Ninja](https://ioninja.com/) 💵  
