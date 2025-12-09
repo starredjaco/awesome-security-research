@@ -116,13 +116,15 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Container Escapes 101 - Host memory meddling with ptrace](https://some-natalie.dev/container-escapes-ptrace/) by Natalie Somersall, Sep 5, 2025  
 - [Exploit Notes - Docker Escape](https://exploit-notes.hdks.org/exploit/container/docker/docker-escape/) by hdks, Nov 2024  
 - [Container Breakouts: Escape Techniques in Cloud Environments](https://unit42.paloaltonetworks.com/container-escape-techniques/) by Yosef Yaakov and Bar Ben-Michael, July 18, 2024
-- [Breaking Free: 26 Advanced Techniques to Escape Docker Containers](https://infosecwriteups.com/breaking-free-26-advanced-techniques-to-escape-docker-containers-530049816b55) by ElNiak  Apr 8, 2024  
+- [Breaking Free: 26 Advanced Techniques to Escape Docker Containers](https://infosecwriteups.com/breaking-free-26-advanced-techniques-to-escape-docker-containers-530049816b55) by ElNiak  Apr 8, 2024
+- [Reversing Windows Container, episode II: Silo](https://blog.quarkslab.com/reversing-windows-container-part-ii-silo-to-server-silo.html) by Lucas Di Martino, March 26, 2024  
 - [Buildkit GRPC SecurityMode privilege check: Build-time container breakout (CVE-2024-23653)](https://labs.snyk.io/resources/cve-2024-23653-buildkit-grpc-securitymode-privilege-check/) by Rory McNamara, Jan 31, 2024 
 - [Buildkit mount cache race: Build-time race condition container breakout (CVE-2024-23651)](https://labs.snyk.io/resources/cve-2024-23651-docker-buildkit-mount-cache-race/) by Rory McNamara, Jan 31, 2024 
 - [Buildkit build-time container teardown arbitrary delete (CVE-2024-23652)](https://labs.snyk.io/resources/cve-2024-23652-buildkit-build-time-container-teardown-arbitrary-delete/) by Rory McNamara, Jan 31, 2024  
-- [Vulnerability: runc process.cwd and leaked fds container breakout (CVE-2024-21626)](https://labs.snyk.io/resources/cve-2024-21626-runc-process-cwd-container-breakout/) by Rory McNamara, Jan 31, 2024  
-- [Docker Security – Step-by-Step Hardening (Docker Hardening)](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/) by ReynardSec, October 16, 2023
-- [A new method for container escape using file-based DirtyCred](https://starlabs.sg/blog/2023/07-a-new-method-for-container-escape-using-file-based-dirtycred/) by Choo Yi Kai, July 25, 2023
+- [Vulnerability: runc process.cwd and leaked fds container breakout (CVE-2024-21626)](https://labs.snyk.io/resources/cve-2024-21626-runc-process-cwd-container-breakout/) by Rory McNamara, Jan 31, 2024
+- [Reversing Windows Container, episode I: Silo](https://blog.quarkslab.com/reversing-windows-container-episode-i-silo.html) by Lucas Di Martino, Sep 21, 2023  
+- [Docker Security – Step-by-Step Hardening (Docker Hardening)](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/) by ReynardSec, October 16, 2023  
+- [A new method for container escape using file-based DirtyCred](https://starlabs.sg/blog/2023/07-a-new-method-for-container-escape-using-file-based-dirtycred/) by Choo Yi Kai, July 25, 2023  
 - [Container breakout (overview)](https://sec.vnpt.vn/2023/07/container-breakout-overview) by Red Team, July 25, 2023
 - [Understanding Windows Containers Communication](https://www.cyberark.com/resources/threat-research-blog/understanding-windows-containers-communication) by Eviatar Gerzi, Sep 7, 2022  
 - [corCTF 2022 CoRJail: From Null Byte Overflow To Docker Escape Exploiting poll_list Objects In The Linux Kernel](https://syst3mfailure.io/corjail/) by D3vil, Aug 17, 2022
