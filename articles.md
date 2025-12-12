@@ -122,6 +122,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Buildkit mount cache race: Build-time race condition container breakout (CVE-2024-23651)](https://labs.snyk.io/resources/cve-2024-23651-docker-buildkit-mount-cache-race/) by Rory McNamara, Jan 31, 2024 
 - [Buildkit build-time container teardown arbitrary delete (CVE-2024-23652)](https://labs.snyk.io/resources/cve-2024-23652-buildkit-build-time-container-teardown-arbitrary-delete/) by Rory McNamara, Jan 31, 2024  
 - [Vulnerability: runc process.cwd and leaked fds container breakout (CVE-2024-21626)](https://labs.snyk.io/resources/cve-2024-21626-runc-process-cwd-container-breakout/) by Rory McNamara, Jan 31, 2024
+- [CVE-2022-0492 (Carpediem) explained](https://www.hackthebox.com/blog/cve-2022-04920-carpe-diem-explained) by [David Glance (CyberMnemosyne)](https://www.hackthebox.com/blog/author/CyberMnemosyne), Dec 26, 2023  
 - [Reversing Windows Container, episode I: Silo](https://blog.quarkslab.com/reversing-windows-container-episode-i-silo.html) by Lucas Di Martino, Sep 21, 2023  
 - [Docker Security – Step-by-Step Hardening (Docker Hardening)](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/) by ReynardSec, October 16, 2023  
 - [A new method for container escape using file-based DirtyCred](https://starlabs.sg/blog/2023/07-a-new-method-for-container-escape-using-file-based-dirtycred/) by Choo Yi Kai, July 25, 2023  
@@ -149,16 +150,17 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Container Breakouts – Part 3: Docker Socket](https://blog.nody.cc/posts/container-breakouts-part3/) by Jan Harrie, July 30, 2020  
 - [Container Breakouts – Part 2: Privileged Container](https://blog.nody.cc/posts/container-breakouts-part2/) by Jan Harrie, July 21, 2020  
 - [Container Breakouts – Part 1: Access to root directory of the Host](https://blog.nody.cc/posts/container-breakouts-part1/) by Jan Harrie, July 15, 2020
-- [Windows Server Containers Are Open, and Here's How You Can Break Out](https://unit42.paloaltonetworks.com/windows-server-containers-vulnerabilities/?pdf=print&lg=en&_wpnonce=49ce28271a) by Daniel Prizmant, July 15, 2020  
+- [Windows Server Containers Are Open, and Here's How You Can Break Out](https://unit42.paloaltonetworks.com/windows-server-containers-vulnerabilities/?pdf=print&lg=en&_wpnonce=49ce28271a) by Daniel Prizmant, July 15, 2020
+- [Docker Container Breakout: Abusing SYS_MODULE capability!](https://blog.pentesteracademy.com/abusing-sys-module-capability-to-perform-docker-container-breakout-cf5c29956edd) by Nishant Sharma, May 6, 2020  
 - [Privileged Container Escapes with Kernel Modules](https://xcellerator.github.io/posts/docker_escape/) by TheXcellerator, Sep 27, 2020  
 - [Security Analysis of User Namespaces and Rootless Containers](https://d-nb.info/1222589206/34) by Anton Semjonov, Jan 2020  
 - [What I Learned from Reverse Engineering Windows Containers](https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/) by Daniel Prizmant, Dec 12, 2019  
 - [CVE-2019-11253: Kubernetes API Server JSON/YAML parsing vulnerable to resource exhaustion attack](https://github.com/kubernetes/kubernetes/issues/83253) by Rory McCune, Sep 27, 2019
 - [AppArmor can be bypassed by a malicious image that specifies a volume at /proc](https://github.com/opencontainers/runc/issues/2128), Sep 22, 2019  
-- [A Complendium of Container Escapes - PDF](https://i.blackhat.com/USA-19/Thursday/us-19-Edwards-Compendium-Of-Container-Escapes-up.pdf) by Brandon Edwards and Nick Freeman from Capsule8, August 2019  
+- [A Complendium of Container Escapes - PDF](https://i.blackhat.com/USA-19/Thursday/us-19-Edwards-Compendium-Of-Container-Escapes-up.pdf) (🔥) by Brandon Edwards and Nick Freeman from Capsule8, August 2019  
 - [Breaking Out of rkt – 3 New Unpatched CVEs](https://unit42.paloaltonetworks.com/breaking-out-of-coresos-rkt-3-new-cves/) by Yuval Avrahami, May 30, 2019  
 - [The Route to Root: Container Escape Using Kernel Exploitation](https://www.cyberark.com/resources/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation) (🔥) by Nimrod Stoler, March 4, 2019
-- [Breaking out of Docker via runC – Explaining CVE-2019-5736](https://unit42.paloaltonetworks.com/breaking-docker-via-runc-explaining-cve-2019-5736/) by Yuval Avrahami, Feb 21, 2019
+- [Breaking out of Docker via runC – Explaining CVE-2019-5736](https://unit42.paloaltonetworks.com/breaking-docker-via-runc-explaining-cve-2019-5736/) (🔥) by Yuval Avrahami, Feb 21, 2019
 - [An Exercise in Practical Container Escapology](https://web.archive.org/web/20210425171222/https://capsule8.com/blog/practical-container-escape-exercise/) by Capsule8, Feb 21, 2019  
 - [How I Hacked Play-with-Docker and Remotely Ran Code on the Host](https://www.cyberark.com/resources/secure-third-party-vendor-and-remote-access/how-i-hacked-play-with-docker-and-remotely-ran-code-on-the-host) (🔥) by Nimrod Stoler, Jan 14, 2019  
 - [Container Basics and Escapes](https://0xn3va.gitbook.io/cheat-sheets/container/overview/basics) by [0xn3va](https://github.com/0xn3va)
@@ -254,6 +256,11 @@ This file contains the **full list** of articles — the main [README](README.md
 
 - [Trust Me, I’m a Robot: Can We Trust RPA With Our Most Guarded Secrets?](https://www.cyberark.com/resources/threat-research-blog/trust-me-i-m-a-robot-can-we-trust-rpa-with-our-most-guarded-secrets) (🔥) by Nimrod Stoler
 - [CVE-2019-1306: Are you my Index?](https://www.zerodayinitiative.com/blog/2019/10/23/cve-2019-1306-are-you-my-index) by [Mikhail Shcherbakov](https://x.com/yu5k3)
+---
+
+## CTFs WriteUps
+### Containers  
+- [Contain Me If You Can - Wiz Cloud CTF July](https://tresscross.blog/contain-me-if-you-can-wiz-cloud-ctf-july/) by Jason Walker, Aug 31, 2025  
 ---
 
 ⭐ Feel free to [contribute](CONTRIBUTING.md) — add new articles under the correct section, keep entries alphabetized, and provide a short description.
