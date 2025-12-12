@@ -112,7 +112,7 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## 🐳 Containers  
-- [HEXACON 2025 - CUDA de Grâce by Valentina Palmiotti & Samuel Lovejoy](https://www.youtube.com/watch?v=Lvz2_ZHj3lo&t=1s) by Valentina Palmiotti & Samuel Lovejoy, Nov 24, 2025  
+- [HEXACON 2025 - CUDA de Grâce by Valentina Palmiotti & Samuel Lovejoy](https://docs.google.com/presentation/d/1FgfURpMyHhnflGWtxeq8ClPPaB5ZDCzT/edit?slide=id.p1#slide=id.p1) by Valentina Palmiotti & Samuel Lovejoy, Nov 24, 2025 - 🎥 [Talk](https://www.youtube.com/watch?v=Lvz2_ZHj3lo)   
 - [Container Escape Techniques: Breaking Out of Docker, Kubernetes, and Beyond](https://danger-team.org/container-escape-techniques-breaking-out-of-docker-kubernetes-and-beyond/#what-are-containers-and-why-should-security-teams-care) by Rasoul, March 17, 2025  
 - [Container Escapes 101 - Host memory meddling with ptrace](https://some-natalie.dev/container-escapes-ptrace/) by Natalie Somersall, Sep 5, 2025  
 - [Exploit Notes - Docker Escape](https://exploit-notes.hdks.org/exploit/container/docker/docker-escape/) by hdks, Nov 2024  
