@@ -144,17 +144,21 @@ This file contains the **full list** of articles — the main [README](README.md
 - [The Real-Life Story of the First Mainframe Container Breakout](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Ian%20Coldwater%20Chad%20Rikansrud%20%28Bigendian%20Smalls%29%20-%20The%20Real-Life%20Story%20of%20the%20First%20Mainframe%20Container%20Breakout.pdf) by Ian Coldwater and Chad, Aug 5, 2021  
 - [Microsoft Patched the Issue With Windows Containers That Enabled Silosca](https://unit42.paloaltonetworks.com/windows-container-escape-patch/) by Daniel Prizmant, Aug 5, 2021   
 - [Siloscape: First Known Malware Targeting Windows Containers to Compromise Cloud Environments](https://unit42.paloaltonetworks.com/siloscape/) by Daniel Prizmant, June 7, 2021
+- [Escaping Virtualized Containers (PDF)](https://i.blackhat.com/asia-20/Friday/asia-20-Yuval-Avrahami-Escaping-Virtualized-Containers.pdf) (🔥) by Yuval Avrahami, May 14, 2021 - 🎥 [Talk](https://www.youtube.com/watch?v=jFlqVe11eeM)  
 - [Who Contains the Containers?](https://googleprojectzero.blogspot.com/2021/04/who-contains-containers.html) (🔥) by James Forshaw, April 1, 2021   
 - [The Strange Case of How We Escaped the Docker Default Container](https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container) by Nimrod Stoler and Gilad Reti, March 4, 2021
+- [BitBucket Pipelines Kata Containers Virtual Machine Escape](https://blog.ajxchapman.com/posts/2021/02/28/kata-containers-escape.html) by [Alex Chapman](https://github.com/ajxchapman), Feb 28, 2021   
 - [Towards Improving Container Security by Preventing Runtime Escapes (PDF)](https://www.osti.gov/servlets/purl/1890908), 2021  
 - [Container Breakouts – Part 3: Docker Socket](https://blog.nody.cc/posts/container-breakouts-part3/) by Jan Harrie, July 30, 2020  
 - [Container Breakouts – Part 2: Privileged Container](https://blog.nody.cc/posts/container-breakouts-part2/) by Jan Harrie, July 21, 2020  
 - [Container Breakouts – Part 1: Access to root directory of the Host](https://blog.nody.cc/posts/container-breakouts-part1/) by Jan Harrie, July 15, 2020
 - [Windows Server Containers Are Open, and Here's How You Can Break Out](https://unit42.paloaltonetworks.com/windows-server-containers-vulnerabilities/?pdf=print&lg=en&_wpnonce=49ce28271a) by Daniel Prizmant, July 15, 2020
-- [Docker Container Breakout: Abusing SYS_MODULE capability!](https://blog.pentesteracademy.com/abusing-sys-module-capability-to-perform-docker-container-breakout-cf5c29956edd) by Nishant Sharma, May 6, 2020  
+- [Docker Container Breakout: Abusing SYS_MODULE capability!](https://blog.pentesteracademy.com/abusing-sys-module-capability-to-perform-docker-container-breakout-cf5c29956edd) by Nishant Sharma, May 6, 2020
+- [Privileged Container Escape - Control Groups release_agent](https://blog.ajxchapman.com/posts/2020/11/19/privileged-container-escape.html) by [Alex Chapman](https://github.com/ajxchapman), Nov 19, 2020    
 - [Privileged Container Escapes with Kernel Modules](https://xcellerator.github.io/posts/docker_escape/) by TheXcellerator, Sep 27, 2020  
 - [Security Analysis of User Namespaces and Rootless Containers](https://d-nb.info/1222589206/34) by Anton Semjonov, Jan 2020  
-- [What I Learned from Reverse Engineering Windows Containers](https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/) by Daniel Prizmant, Dec 12, 2019  
+- [What I Learned from Reverse Engineering Windows Containers](https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/) by Daniel Prizmant, Dec 12, 2019
+- [Understanding Docker container escapes](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/) by Dominik Czarnota, July 19, 2019  
 - [CVE-2019-11253: Kubernetes API Server JSON/YAML parsing vulnerable to resource exhaustion attack](https://github.com/kubernetes/kubernetes/issues/83253) by Rory McCune, Sep 27, 2019
 - [AppArmor can be bypassed by a malicious image that specifies a volume at /proc](https://github.com/opencontainers/runc/issues/2128), Sep 22, 2019  
 - [A Complendium of Container Escapes - PDF](https://i.blackhat.com/USA-19/Thursday/us-19-Edwards-Compendium-Of-Container-Escapes-up.pdf) (🔥) by Brandon Edwards and Nick Freeman from Capsule8, August 2019  
