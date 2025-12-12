@@ -98,7 +98,8 @@ A curated collection of vulnerability research articles and blog posts.
 - [bettercap](https://github.com/bettercap/bettercap) by [Simone Margaritelli (evilsocket)](https://github.com/evilsocket)  
 
 ### Mobile  
-- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) (🔥) 
+- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) (🔥)
+
 ### Windows  
 
 - [Faxhell - A Proof-of-Concept bind shell using the Fax service and a DLL hijack based on Ualapi.dll](https://github.com/ionescu007/faxhell)
@@ -139,6 +140,14 @@ A curated collection of vulnerability research articles and blog posts.
 - [WinDBG](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/)
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra)  
 
+### Linux
+- [PEASS-ng - Privilege Escalation Awesome Scripts SUITE new generation](https://github.com/peass-ng/PEASS-ng) (🔥)
+
+  
+### Containers    
+- [Edgeshark](https://github.com/siemens/edgeshark/) - Discover and capture container network traffic.
+- [deepce](https://github.com/stealthcopter/deepce) (🔥) - Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE).
+  
 ### Kubernetes  
 - [KubiScan](https://github.com/cyberark/KubiScan) - Scan Kubernetes cluster for risky permissions by Eviatar Gerzi    
 - [kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet by Eviatar Gerzi    
