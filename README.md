@@ -115,8 +115,9 @@ A curated collection of vulnerability research articles and blog posts.
 - [ItWasAllADream](https://github.com/byt3bl33d3r/ItWasAllADream) - A PrintNightmare (CVE-2021-34527) Python Scanner by [byt3bl33d3r](https://github.com/byt3bl33d3r)  
 
 #### PE  
-- [PE-sieve](https://github.com/hasherezade/pe-sieve) - Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches) by hasherezade  
-- [PE-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI by hasherezade  
+- [PE-sieve](https://github.com/hasherezade/pe-sieve) - Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches) by hasherezade.  
+- [PE-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI by hasherezade.  
+- [Detect It Easy (DiE)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.  
 
 #### Namedpipes  
 - [Pipetap](https://github.com/sensepost/pipetap) by [Leon Jacobs](https://github.com/leonjza)  
