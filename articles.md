@@ -29,7 +29,8 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ## 🪟 Windows   
 - [Microsoft Windows Cloud Files Minifilter TOCTOU Privilege Escalation](https://blog.exodusintel.com/2025/10/20/microsoft-windows-cloud-files-minifilter-toctou-privilege-escalation/) by Michele Campa, Oct 20, 2025  
-- [Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks](https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks) (🔥) by Simon Zuckerbraun, ,March 17, 2022     
+- [Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks](https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks) (🔥) by Simon Zuckerbraun, ,March 17, 2022
+- [Windows Drivers Reverse Engineering Methodology](https://voidsec.com/windows-drivers-reverse-engineering-methodology/) by voidsec, Jan 20, 2022  
 - [Pentester’S Windows NTFS Tricks Collection](https://sec-consult.com/blog/detail/pentesters-windows-ntfs-tricks-collection/)
 - [Offensive Windows IPC Internals 2: RPC](https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html#the-series) by [Carsten Sandker](https://x.com/0xcsandker), Feb 21, 2021  
 - [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html) by [Carsten Sandker](https://x.com/0xcsandker), Jan 10, 2021  
@@ -43,6 +44,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ### Privilege Escalation  
+- [Windows LPE Bug Hunting, Served by the Team’s Youngest: Part 1 (EN) ](https://hackyboiz.github.io/2025/12/28/banda/WHS3-bughunting/en/), Dec 28, 2025  
 - [Hijacking the Windows "MareBackup" Scheduled Task for Privilege Escalation](https://itm4n.github.io/hijacking-the-windows-marebackup-scheduled-task-for-privilege-escalation/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), May 20, 2025
 - [A Practical Guide to PrintNightmare in 2024](https://itm4n.github.io/printnightmare-exploitation/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), Jan 28, 2024  
 - [From NETWORK SERVICE to SYSTEM](https://decoder.cloud/2020/05/04/from-network-service-to-system/) by [decoder](https://x.com/decoder_it), May 4, 2020
