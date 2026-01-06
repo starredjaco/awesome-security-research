@@ -24,6 +24,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## AI  
+- [Securing Perplexity’s AI Browser from a One-Click UXSS](https://www.hacktron.ai/blog/perplexity-comet-uxss) by s1r1us and sudi, November 24, 2025  
 - [Anatomy of an LLM RCE](https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce) (🔥) by Shaked Reiner, Oct 28, 2024  
 
 
