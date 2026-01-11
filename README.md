@@ -82,6 +82,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [Caido](https://caido.io/compare/burpsuite) - Modern alternative to Burp Suite  
 - [OWASP ZAP](https://www.zaproxy.org/) - Webapp scanner  
 - [URL validation bypass cheat sheet](https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet) 
+- [JSAnalyzer](https://github.com/jenish-sojitra/JSAnalyzer) - Burp extension for JavaScript static analysis  
 
 ### AI  
 - [AntiGravity](https://antigravity.google/download)
