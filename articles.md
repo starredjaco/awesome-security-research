@@ -29,13 +29,14 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ## 🪟 Windows   
-- [Microsoft Windows Cloud Files Minifilter TOCTOU Privilege Escalation](https://blog.exodusintel.com/2025/10/20/microsoft-windows-cloud-files-minifilter-toctou-privilege-escalation/) by Michele Campa, Oct 20, 2025  
-- [Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks](https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks) (🔥) by Simon Zuckerbraun, ,March 17, 2022
+- [Microsoft Windows Cloud Files Minifilter TOCTOU Privilege Escalation](https://blog.exodusintel.com/2025/10/20/microsoft-windows-cloud-files-minifilter-toctou-privilege-escalation/) by Michele Campa, Oct 20, 2025
+- [Finding Running RPC Server Information with NtObjectManager](https://www.tiraniddo.dev/2022/06/finding-running-rpc-server-information.html) by James Forshaw, Jun 26, 2022  
+- [Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks](https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks) (🔥) by Simon Zuckerbraun, ,March 17, 2022  
 - [Windows Drivers Reverse Engineering Methodology](https://voidsec.com/windows-drivers-reverse-engineering-methodology/) by voidsec, Jan 20, 2022  
 - [Pentester’S Windows NTFS Tricks Collection](https://sec-consult.com/blog/detail/pentesters-windows-ntfs-tricks-collection/)
 - [Offensive Windows IPC Internals 2: RPC](https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html#the-series) by [Carsten Sandker](https://x.com/0xcsandker), Feb 21, 2021  
 - [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html) by [Carsten Sandker](https://x.com/0xcsandker), Jan 10, 2021  
-- [Zerologon: Unauthenticated domain controller compromise by subverting Netlogon cryptography (CVE-2020-1472) (PDF)](https://cybersecurity.bureauveritas.com/uploads/whitepapers/Zerologon.pdf) (🔥)  by Tom Tervoort (Secura), Sep, 2020  
+- [Zerologon: Unauthenticated domain controller compromise by subverting Netlogon cryptography (CVE-2020-1472) (PDF)](https://cybersecurity.bureauveritas.com/uploads/whitepapers/Zerologon.pdf) (🔥) by Tom Tervoort (Secura), Sep, 2020  
 - [Windows Exploitation](https://web.archive.org/web/20200507040017/https://fullpwnops.com/windows-exploitation-pathway.html) by [Fu11Shade](https://web.archive.org/web/20200713114317/https://github.com/fullshade/), May, 2020  
 - [Beware of the GIF: Account Takeover Vulnerability in Microsoft Teams](https://www.cyberark.com/resources/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams) by Omer Tsarfati, Apr 27, 2020
 - [Calling Local Windows RPC Servers from .NET](https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers-from.html) by James Forshaw, Decemeber 17, 2019
@@ -212,6 +213,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ## 🌐 Identity  
 - [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/) by Dirk-jan Mollema, September 17, 2025    
 - [Forging Passkeys: Exploring the FIDO2 / WebAuthn Attack Surface](https://nullpt.rs/forging-passkeys) by [vmfunc](https://x.com/vmfunc), June 20, 2025
+- [WebAuthn Under Attack: How Trojans Can Compromise Your Credentials (PDF)](https://github.com/w3c/webauthn/files/12640140/WebAuthn.pdf) by Aditya Mitra and Anisha Ghosh, Sep 16, 2023 - [GitHub Issue ](https://github.com/w3c/webauthn/issues/1965)   
 - [Bypassing Windows Hello Without Masks or Plastic Surgery](https://www.cyberark.com/resources/threat-research-blog/bypassing-windows-hello-without-masks-or-plastic-surgery) by Omer Tsarfati, Jul 17, 2023  
 - [Abusing FIDO2 passkeys to take over Global Administrators in Entra ID](https://cybersecurity.bureauveritas.com/services/information-technology/pentesting-services/what-can-be-pentested/cloud-pentesting/abusing-fido2-passkeys) by Max Rozendaal  
 
