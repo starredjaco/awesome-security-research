@@ -24,7 +24,8 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## AI  
-- [N8Scape (Pyodide sandbox escape): 9.9 Critical Post-Auth RCE in n8n (CVE-2025-68668)](https://www.cyera.com/research-labs/n8scape-pyodide-sandbox-escape-9-9-critical-post-auth-rce-in-n8n-cve-2025-68668) by Vladimir Tokarev Ofek Itach, Jan 13, 2025  
+- [N8Scape (Pyodide sandbox escape): 9.9 Critical Post-Auth RCE in n8n (CVE-2025-68668)](https://www.cyera.com/research-labs/n8scape-pyodide-sandbox-escape-9-9-critical-post-auth-rce-in-n8n-cve-2025-68668) by Vladimir Tokarev Ofek Itach, Jan 13, 2026
+- [Ni8mare  -  Unauthenticated Remote Code Execution in n8n (CVE-2026-21858)](https://www.cyera.com/research-labs/ni8mare-unauthenticated-remote-code-execution-in-n8n-cve-2026-21858) by Dor Attias, Jan 7, 2026  
 - [Securing Perplexity’s AI Browser from a One-Click UXSS](https://www.hacktron.ai/blog/perplexity-comet-uxss) by s1r1us and sudi, November 24, 2025  
 - [Anatomy of an LLM RCE](https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce) (🔥) by Shaked Reiner, Oct 28, 2024  
 
