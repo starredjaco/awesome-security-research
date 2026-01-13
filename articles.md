@@ -115,7 +115,8 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## 🐳 Containers  
-- [HEXACON 2025 - CUDA de Grâce by Valentina Palmiotti & Samuel Lovejoy](https://docs.google.com/presentation/d/1FgfURpMyHhnflGWtxeq8ClPPaB5ZDCzT/edit?slide=id.p1#slide=id.p1) by Valentina Palmiotti & Samuel Lovejoy, Nov 24, 2025 - 🎥 [Talk](https://www.youtube.com/watch?v=Lvz2_ZHj3lo)
+- [HEXACON 2025 - CUDA de Grâce by Valentina Palmiotti & Samuel Lovejoy](https://docs.google.com/presentation/d/1FgfURpMyHhnflGWtxeq8ClPPaB5ZDCzT/edit?slide=id.p1#slide=id.p1) (🔥)  by Valentina Palmiotti & Samuel Lovejoy, Nov 24, 2025 - 🎥 [Talk](https://www.youtube.com/watch?v=Lvz2_ZHj3lo)
+- [Docker Container Escape by Exploiting CGroups](https://medium.com/@indigoshadowwashere/docker-container-escape-by-exploiting-cgroups-e52efab898d3) by Indigo Shadow, Nov 16, 2025  
 - [Fun-reliable side-channels for cross-container communication](https://h4x0r.org/funreliable/) by Ivan, Nov 12, 2025  
 - [Container Escape Techniques: Breaking Out of Docker, Kubernetes, and Beyond](https://danger-team.org/container-escape-techniques-breaking-out-of-docker-kubernetes-and-beyond/#what-are-containers-and-why-should-security-teams-care) by Rasoul, March 17, 2025  
 - [Container Escapes 101 - Host memory meddling with ptrace](https://some-natalie.dev/container-escapes-ptrace/) by Natalie Somersall, Sep 5, 2025  
