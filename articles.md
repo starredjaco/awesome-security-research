@@ -102,6 +102,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Configuring and Securing Credentials in Jenkins](https://www.cyberark.com/resources/threat-research-blog/configuring-and-securing-credentials-in-jenkins) by Nimrod Stoler, Aug 15, 2018  
   
 ### by Wiz  
+- [CodeBreach: Infiltrating the AWS Console Supply Chain and Hijacking AWS GitHub Repositories via CodeBuild](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild) by Yuval Avrahami, Jan 15, 2026  
 - [RediShell: Critical Remote Code Execution Vulnerability (CVE-2025-49844) in Redis, 10 CVSS score](https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844) by Benny Isaacs and Nir Brakha, October 6, 2025  
 - [Breaking NVIDIA Triton: CVE-2025-23319 - A Vulnerability Chain Leading to AI Server Takeover](https://www.wiz.io/blog/nvidia-triton-cve-2025-23319-vuln-chain-to-ai-server)  
 - [NVIDIAScape - Critical NVIDIA AI Vulnerability: A Three-Line Container Escape in NVIDIA Container Toolkit (CVE-2025-23266)](https://www.wiz.io/blog/nvidia-ai-vulnerability-cve-2025-23266-nvidiascape), July 17, 2025  
