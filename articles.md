@@ -25,6 +25,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ## AI  
 - [N8Scape (Pyodide sandbox escape): 9.9 Critical Post-Auth RCE in n8n (CVE-2025-68668)](https://www.cyera.com/research-labs/n8scape-pyodide-sandbox-escape-9-9-critical-post-auth-rce-in-n8n-cve-2025-68668) by Vladimir Tokarev Ofek Itach, Jan 13, 2026
+- [BodySnatcher (CVE-2025-12420): A Broken Authentication and Agentic Hijacking Vulnerability in ServiceNow](https://appomni.com/ao-labs/bodysnatcher-agentic-ai-security-vulnerability-in-servicenow/) by Appomni, Jan 13, 2026  
 - [Ni8mare  -  Unauthenticated Remote Code Execution in n8n (CVE-2026-21858)](https://www.cyera.com/research-labs/ni8mare-unauthenticated-remote-code-execution-in-n8n-cve-2026-21858) by Dor Attias, Jan 7, 2026  
 - [Securing Perplexity’s AI Browser from a One-Click UXSS](https://www.hacktron.ai/blog/perplexity-comet-uxss) by s1r1us and sudi, November 24, 2025  
 - [Anatomy of an LLM RCE](https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce) (🔥) by Shaked Reiner, Oct 28, 2024  
@@ -197,6 +198,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ---
 ## Web  
+- [Do Smart People Ever Say They’re Smart? (SmarterTools SmarterMail Pre-Auth RCE CVE-2025-52691)](https://labs.watchtowr.com/do-smart-people-ever-say-theyre-smart-smartertools-smartermail-pre-auth-rce-cve-2025-52691/) by Piotr Bazydlo (@chudyPB) and Sina Kheirkhah (@SinSinology), Jan 8, 2026  
 - [Breaking Oracle’s Identity Manager: Pre-Auth RCE (CVE-2025-61757)](https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/) by Adam Kues and Shubham Shah, November 20, 2025  
 - [How I Found a Critical Password Reset Bug in the BB program(and Got $4,000)](https://medium.com/@s41n1k/how-i-found-a-critical-password-reset-bug-in-the-bb-program-and-got-4-000-a22fffe285e1)
 - [Account Takeover via Password Reset without user interactions](https://gitlab.com/gitlab-org/gitlab/-/issues/436084)
