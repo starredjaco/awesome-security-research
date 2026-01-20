@@ -48,8 +48,10 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ### Privilege Escalation  
+- [Who’s on the Line? Exploiting RCE in Windows Telephony Service](https://swarm.ptsecurity.com/whos-on-the-line-exploiting-rce-in-windows-telephony-service/) by Sergey Bliznyuk (PT Swarm), Jan 19, 2026  
 - [Windows LPE Bug Hunting, Served by the Team’s Youngest: Part 1 (EN) ](https://hackyboiz.github.io/2025/12/28/banda/WHS3-bughunting/en/), Dec 28, 2025  
-- [Hijacking the Windows "MareBackup" Scheduled Task for Privilege Escalation](https://itm4n.github.io/hijacking-the-windows-marebackup-scheduled-task-for-privilege-escalation/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), May 20, 2025
+- [The Guest Who Could: Exploiting LPE in VMWare Tools](https://swarm.ptsecurity.com/the-guest-who-could-exploiting-lpe-in-vmware-tools/) by Sergey Bliznyuk (PT Swarm), Jul 22, 2025   
+- [Hijacking the Windows "MareBackup" Scheduled Task for Privilege Escalation](https://itm4n.github.io/hijacking-the-windows-marebackup-scheduled-task-for-privilege-escalation/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), May 20, 2025  
 - [A Practical Guide to PrintNightmare in 2024](https://itm4n.github.io/printnightmare-exploitation/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), Jan 28, 2024  
 - [From NETWORK SERVICE to SYSTEM](https://decoder.cloud/2020/05/04/from-network-service-to-system/) by [decoder](https://x.com/decoder_it), May 4, 2020
 - [Faxing Your Way to SYSTEM — Part Two](https://windows-internals.com/faxing-your-way-to-system/) (🔥🔥) by [Yarden Shafir](https://x.com/yarden_shafir) & [Alex Ionescu](https://x.com/aionescu), Apr 30, 2020  - [Faxhell tool](https://github.com/ionescu007/faxhell)  
