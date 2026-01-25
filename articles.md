@@ -198,6 +198,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ---
 ## Web  
+- [CVE-2026-23958 Compromises Admin Accounts on DataEase ; Enterprise BI at Risk](https://www.ox.security/blog/blog-dataease-cve-2026-23958-admin-takeover/) by Nir Zadok and Eyal Paz, Jan 21, 2026   
 - [Do Smart People Ever Say They’re Smart? (SmarterTools SmarterMail Pre-Auth RCE CVE-2025-52691)](https://labs.watchtowr.com/do-smart-people-ever-say-theyre-smart-smartertools-smartermail-pre-auth-rce-cve-2025-52691/) by Piotr Bazydlo (@chudyPB) and Sina Kheirkhah (@SinSinology), Jan 8, 2026  
 - [Breaking Oracle’s Identity Manager: Pre-Auth RCE (CVE-2025-61757)](https://slcyber.io/research-center/breaking-oracles-identity-manager-pre-auth-rce/) by Adam Kues and Shubham Shah, November 20, 2025  
 - [How I Found a Critical Password Reset Bug in the BB program(and Got $4,000)](https://medium.com/@s41n1k/how-i-found-a-critical-password-reset-bug-in-the-bb-program-and-got-4-000-a22fffe285e1)
