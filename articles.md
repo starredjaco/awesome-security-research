@@ -86,6 +86,7 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## ☁️ Kubernetes & Cloud   
+- [Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission](https://grahamhelton.com/blog/nodes-proxy-rce) by Graham Helton, Jan 26, 2026  
 - [What a Cluster: Local Volumes Vulnerability in Kubernetes](https://www.akamai.com/blog/security-research/kubernetes-local-volumes-command-injection-vulnerability-rce-system-privileges) by Tomer Peled, March 13, 2024 
 - [Can't Be Contained: Finding a Command Injection Vulnerability in Kubernetes](https://www.akamai.com/blog/security-research/kubernetes-critical-vulnerability-command-injection) by Tomer Peled, September 13, 2023
 - [Mitigating RBAC-Based Privilege Escalation in Popular Kubernetes Platforms](https://unit42.paloaltonetworks.com/kubernetes-privilege-escalation/) by Yuval Avrahami, January 27, 2023  
