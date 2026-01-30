@@ -217,6 +217,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Web Cache Deception Attack](https://omergil.blogspot.com/2017/02/web-cache-deception-attack.html) (🔥) by Omer Gil, Feburary 27, 2017
 ---
 ## Bug Bounty
+- [How I made $64k from deleted files — a bug bounty story](https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b) by Sharon Brizinov, Apr 22, 2025  
 - [$10,500 Bounty: A Grammarly Account Takeover Vector](https://infosecwriteups.com/10-500-bounty-a-grammarly-account-takeover-vector-974ef90fb00a) by [Monika sharma](https://medium.com/@commanak46)  
 ---
 
