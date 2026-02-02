@@ -199,6 +199,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ---
 ## Web  
+- [GatewayToHeaven: Finding a Cross-Tenant Vulnerability in GCP's Apigee](https://omeramiad.com/posts/gatewaytoheaven-gcp-cross-tenant-vulnerability/) by Omer Amiad, Jan 28, 2026  
 - [CVE-2026-23958 Compromises Admin Accounts on DataEase ; Enterprise BI at Risk](https://www.ox.security/blog/blog-dataease-cve-2026-23958-admin-takeover/) by Nir Zadok and Eyal Paz, Jan 21, 2026   
 - [Do Smart People Ever Say They’re Smart? (SmarterTools SmarterMail Pre-Auth RCE CVE-2025-52691)](https://labs.watchtowr.com/do-smart-people-ever-say-theyre-smart-smartertools-smartermail-pre-auth-rce-cve-2025-52691/) by Piotr Bazydlo (@chudyPB) and Sina Kheirkhah (@SinSinology), Jan 8, 2026
 - [Guest Post: How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets) by Sharon Brizinov, Jul, 2025 -> [Linkedin post](https://www.linkedin.com/posts/sharonbrizinov_how-i-scanned-all-of-githubs-oops-commits-activity-7345891171681906690-7DJV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVVCOcBn2W8cJUVEZYrwcQtiQOQeUkmp5E).    
