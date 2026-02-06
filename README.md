@@ -90,7 +90,11 @@ A curated collection of vulnerability research articles and blog posts.
 - [DeepWiki](https://deepwiki.com/)  
 - [ChatGPT](https://chatgpt.com/)  
 - [Claude](https://claude.ai/)  
-- [Cursor](https://cursor.com/)  
+- [Cursor](https://cursor.com/)
+
+#### Skills
+- https://skills.sh/  
+
 
 ### Network  
 - [Wireshark](https://www.wireshark.org/)   
