@@ -71,7 +71,10 @@ A curated collection of vulnerability research articles and blog posts.
 - [#HITBLockdown D2 - Prisoner Number 6 - Nimrod Stoler](https://www.youtube.com/watch?v=aMBq0LZo_2I) (🔥) by Nimrod Stoler, Jun 3, 2020  
 - [CG - Prisoner Number Six - Nimrod Stoler & Lavi Lazarovitz](https://www.youtube.com/watch?v=sPN5bRGoZlI) (🔥) by Nimrod Stoler, August 7, 2019
 - [#HITB2016AMS D1T1 - Escape From The Docker KVM QEMU Machine - Shengping Wang and Xu Liu](https://www.youtube.com/watch?v=XcvRfg3_ACY) by Xu Liu and Shengping Wang, Jun 21, 2016
-- [Vulnerability Exploitation In Docker Container Environments](https://www.youtube.com/watch?v=77-jaeUKH7c) by Anthony Bettini, Mar 5, 2016   
+- [Vulnerability Exploitation In Docker Container Environments](https://www.youtube.com/watch?v=77-jaeUKH7c) by Anthony Bettini, Mar 5, 2016
+
+### Identity  
+- [Turning WebAuthn Against Itself](https://www.youtube.com/watch?v=LCGm5-ZjKK0) by Shourya Pratap Singh, Jonny Lin and Daniel Seetoh, Aug 28, 2025  
 
 ---  
 ## Tools  
