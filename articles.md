@@ -236,7 +236,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ### OAuth  
-
+- [N8N: Shared Credentials and Account Takeover](https://www.imperva.com/blog/n8n-shared-credentials-and-account-takeover/) by Yohann Sillam, Mar 3, 2026  
 - [Common OAuth Vulnerabilities](https://blog.doyensec.com/2025/01/30/oauth-common-vulnerabilities.html) by Jose Catalan and Szymon Drosdzol, Jan 30, 2025
 - [Millions of Accounts Vulnerable due to Google’s OAuth Flaw](https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw) by Dylan Ayrey, Jan 13, 2025 - 🎥 [Talk](https://www.youtube.com/watch?v=yIutY_X2FcU&t=19857s)   
 - [Understanding OAuth 2.0 and its Common Vulnerabilities](https://www.vaadata.com/blog/understanding-oauth-2-0-and-its-common-vulnerabilities/) by Vaadata, January 9, 2025   
@@ -283,7 +283,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---
 
 ## 🌀 Miscellaneous  
-
+- [Code Execution in Jupyter Notebook Exports](https://www.imperva.com/blog/code-execution-in-jupyter-notebook-exports/) by Yohann Sillam, Dec 16, 2025  
 - [Trust Me, I’m a Robot: Can We Trust RPA With Our Most Guarded Secrets?](https://www.cyberark.com/resources/threat-research-blog/trust-me-i-m-a-robot-can-we-trust-rpa-with-our-most-guarded-secrets) (🔥) by Nimrod Stoler
 - [CVE-2019-1306: Are you my Index?](https://www.zerodayinitiative.com/blog/2019/10/23/cve-2019-1306-are-you-my-index) by [Mikhail Shcherbakov](https://x.com/yu5k3)
 ---
