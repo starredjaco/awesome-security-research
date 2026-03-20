@@ -50,7 +50,8 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ### Privilege Escalation  
-- [RIP RegPwn (CVE-2026-24291)](https://www.mdsec.co.uk/2026/03/rip-regpwn/) by Filip Dragovic (MDSec), March 13, 2026  
+- [RIP RegPwn (CVE-2026-24291)](https://www.mdsec.co.uk/2026/03/rip-regpwn/) by Filip Dragovic (MDSec), March 13, 2026
+- [Total Recall – Retracing Your Steps Back to NT AUTHORITY\SYSTEM](https://www.mdsec.co.uk/2026/02/total-recall-retracing-your-steps-back-to-nt-authoritysystem/) by Filip Dragovic (MDSec), Feb 27, 2026  
 - [Who’s on the Line? Exploiting RCE in Windows Telephony Service](https://swarm.ptsecurity.com/whos-on-the-line-exploiting-rce-in-windows-telephony-service/) by Sergey Bliznyuk (PT Swarm), Jan 19, 2026  
 - [Windows LPE Bug Hunting, Served by the Team’s Youngest: Part 1 (EN) ](https://hackyboiz.github.io/2025/12/28/banda/WHS3-bughunting/en/), Dec 28, 2025  
 - [The Guest Who Could: Exploiting LPE in VMWare Tools](https://swarm.ptsecurity.com/the-guest-who-could-exploiting-lpe-in-vmware-tools/) by Sergey Bliznyuk (PT Swarm), Jul 22, 2025   
