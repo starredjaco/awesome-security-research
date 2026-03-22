@@ -95,6 +95,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [ChatGPT](https://chatgpt.com/)  
 - [Claude](https://claude.ai/)  
 - [Cursor](https://cursor.com/)
+- [CAI - Cyber Secyruty AI Framework](https://github.com/aliasrobotics/CAI)   
 
 #### Skills
 - https://skills.sh/  
