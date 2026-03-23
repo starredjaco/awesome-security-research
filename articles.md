@@ -90,23 +90,28 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ## ☁️ Kubernetes & Cloud   
 - [Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission](https://grahamhelton.com/blog/nodes-proxy-rce) by Graham Helton, Jan 26, 2026  
-- [What a Cluster: Local Volumes Vulnerability in Kubernetes](https://www.akamai.com/blog/security-research/kubernetes-local-volumes-command-injection-vulnerability-rce-system-privileges) by Tomer Peled, March 13, 2024 
+- [What a Cluster: Local Volumes Vulnerability in Kubernetes](https://www.akamai.com/blog/security-research/kubernetes-local-volumes-command-injection-vulnerability-rce-system-privileges) by Tomer Peled, March 13, 2024
+- [Azure HDInsight: The Sequel – Unveiling 3 New Vulnerabilities That Could Have Led to Privilege Escalations and Denial of Service](https://orca.security/resources/blog/azure-hd-insight-vulnerabilities-privilege-escalation/) by Lidor Ben Shitrit (Orca), Feb 6, 2024  
 - [Can't Be Contained: Finding a Command Injection Vulnerability in Kubernetes](https://www.akamai.com/blog/security-research/kubernetes-critical-vulnerability-command-injection) by Tomer Peled, September 13, 2023
 - [Azure HDInsight Riddled With XSS Vulnerabilities via Apache Services](https://orca.security/resources/blog/cross-site-scripting-vulnerabilities-in-apache-services-azure-hd-insight/) by Lidor Ben Shitrit (Orca), Sep 13, 2023
 - [Two XSS Vulnerabilities in Azure with Embedded postMessage IFrames](https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/) by Lidor Ben Shitrit (Orca), Jun 14, 2023
-- [Azure DevOps CICD Pipelines - Command Injection with Parameters, Variables and a discussion on Runner hijacking](https://pulsesecurity.co.nz/advisories/Azure-Devops-Command-Injection) by Sana Oshika, May 1, 2023  
-- [Mitigating RBAC-Based Privilege Escalation in Popular Kubernetes Platforms](https://unit42.paloaltonetworks.com/kubernetes-privilege-escalation/) by Yuval Avrahami, January 27, 2023
-- [Super FabriXss: From XSS to an RCE in Azure Service Fabric Explorer by Abusing an Event Tab Cluster Toggle (CVE-2023-23383)](https://orca.security/resources/blog/super-fabrixss-azure-vulnerability/) by Lidor Ben Shitrit (Orca), Mar 30, 2023
+- [Azure DevOps CICD Pipelines - Command Injection with Parameters, Variables and a discussion on Runner hijacking](https://pulsesecurity.co.nz/advisories/Azure-Devops-Command-Injection) by Sana Oshika, May 1, 2023
+- [Super FabriXss: From XSS to an RCE in Azure Service Fabric Explorer by Abusing an Event Tab Cluster Toggle (CVE-2023-23383)](https://orca.security/resources/blog/super-fabrixss-azure-vulnerability/) by Lidor Ben Shitrit (Orca), Mar 30, 2023   
+- [Mitigating RBAC-Based Privilege Escalation in Popular Kubernetes Platforms](https://unit42.paloaltonetworks.com/kubernetes-privilege-escalation/) by Yuval Avrahami, January 27, 2023  
 - [Authenticated SSRF Vulnerability on Azure API Management Service](https://orca.security/resources/blog/ssrf-vulnerabilities-azure-api-management/) by Lidor Ben Shitrit (Orca), Jan 17, 2023  
 - [Unauthenticated SSRF Vulnerability on Azure Functions](https://orca.security/resources/blog/ssrf-vulnerabilities-azure-functions-app/) by Lidor Ben Shitrit (Orca), Jan 17, 2023
 - [Unauthenticated SSRF Vulnerability on Azure Digital Twins Explorer](https://orca.security/resources/blog/ssrf-vulnerabilities-azure-digital-twins/) by Lidor Ben Shitrit (Orca), Jan 17, 2023
+- [How Orca Found Server-Side Request Forgery (SSRF) Vulnerabilities in Four Different Azure Services](https://orca.security/resources/blog/ssrf-vulnerabilities-in-four-azure-services/) by Lidor Ben Shitrit (Orca), Jan 17, 2023  
 - [CosMiss: Azure Cosmos DB Notebook Remote Code Execution Vulnerability](https://orca.security/resources/blog/cosmiss-vulnerability-azure-cosmos-db/) by Lidor Ben Shitrit (Orca), Nov 1, 2022
+- [All Roads leads to GKE's Host : 4+ Ways to Escape (PDF)](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Billy%20Jheng%20%20%20Muhammad%20Alifa%20Ramdhan%20-%20All%20Roads%20leads%20to%20GKEs%20Host%20%204%2B%20Ways%20to%20Escape.pdf) by Billy and Ramdhan, Oct 20, 2022  
+- [FabriXss (CVE-2022-35829): How We Managed to Abuse a Custom Role User Using CSTI and Stored XSS in Azure Fabric Explorer ](https://orca.security/resources/blog/fabrixss-vulnerability-azure-fabric-explorer/) by Lidor Ben Shitrit (Orca) and Roee Sagi, Oct 19, 2022
+- [Supply Chain Attack: CTX Account Takeover and PHPass Hijack Explained](https://orca.security/resources/blog/python-supply-chain-attack-ctx-phpass/) by Lidor Ben Shitrit (Orca), Jun 13, 2022  
 - [Kubernetes Pod Escape Using Log Mounts](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/) by Daniel Sagi (from Aqua)   
 - [Dirty DAG: New Vulnerabilities in Azure Data Factory’s Apache Airflow Integration](https://unit42.paloaltonetworks.com/azure-data-factory-apache-airflow-vulnerabilities/) by Ofir Balassiano and David Orlovsky (Palo)  
 - [SynLapse – Technical Details for Critical Azure Synapse Vulnerability](https://orca.security/resources/blog/synlapse-critical-azure-synapse-analytics-service-vulnerability/) by Tzah Pahima  
 - [Kubernetes container runtime CRI-O has make-me-root flaw](https://www.theregister.com/2022/03/15/cr8escape_container_runtime_bug/) by Jessica Lyons, March 15, 2022  
 - [Container Escape to Shadow Admin: GKE Autopilot Vulnerabilities](https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/) by Yuval Avrahami, March 8, 2022
-- [All Roads leads to GKE's Host : 4+ Ways to Escape (PDF)](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Billy%20Jheng%20%20%20Muhammad%20Alifa%20Ramdhan%20-%20All%20Roads%20leads%20to%20GKEs%20Host%20%204%2B%20Ways%20to%20Escape.pdf) by Billy and Ramdhan, Oct 20, 2022  
+- [Oracle Server Side Request Forgery (SSRF) Metadata](https://orca.security/resources/blog/oracle-server-side-request-forgery-ssrf-attack-metadata/) by Lidor Ben Shitrit (Orca), Feb 8, 2022  
 - [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances](https://unit42.paloaltonetworks.com/azure-container-instances/) by Yuval Avrahami, September 9, 2021
 - [Escaping Virtualized Containers (PDF)](https://i.blackhat.com/USA-20/Thursday/us-20-Avrahami-Escaping-Virtualized-Containers.pdf) by Yuval Avrahami, May 14, 2021  
 - [Gaining Persistency on Vulnerable Lambdas](https://unit42.paloaltonetworks.com/gaining-persistency-vulnerable-lambdas/) by Yuval Avrahami, September 2, 2019
@@ -219,7 +224,6 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Account Takeover via Password Reset without user interactions](https://gitlab.com/gitlab-org/gitlab/-/issues/436084)
 - [Shockwave Identifies Web Cache Deception and Account Takeover Vulnerability affecting OpenAI's ChatGPT](https://www.shockwave.cloud/blog/shockwave-works-with-openai-to-fix-critical-chatgpt-vulnerability) by Gal Nagli, July 15, 2024  
 - [CVE-2024-25153: Remote Code Execution in Fortra FileCatalyst](https://www.lrqa.com/en/cyber-labs/cve-2024-25153-remote-code-execution-in-fortra-filecatalyst/) by Tom Wedgbury, March 13, 2024
-- [Azure HDInsight: The Sequel – Unveiling 3 New Vulnerabilities That Could Have Led to Privilege Escalations and Denial of Service](https://orca.security/resources/blog/azure-hd-insight-vulnerabilities-privilege-escalation/) by Lidor Ben Shitrit (Orca), Feb 6, 2024  
 - [ChatGPT Account Takeover - Wildcard Web Cache Deception](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html) (🔥) by [Harel](https://x.com/h4r3l), Feb 4, 2024  
 - [Sandwich Attack UUIDv1](https://x.com/0xLupin/status/1745805050562105739) by [0xLupin](https://x.com/0xLupin), Jan 12, 2024
 - [Hacking Chess.com and Accessing 50 Million Customer Records](https://samcurry.net/hacking-chesscom) by Sam Curry, Dec 16, 2020  
