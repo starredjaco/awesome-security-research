@@ -215,6 +215,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ---
 ## Web  
+- [Business, logic, and chains: unauthenticated RCE in Dell Wyse Management Suite](https://swarm.ptsecurity.com/business-logic-and-chains-unauthenticated-rce-in-dell-wyse-management-suite/) by Aleksandr Zhurnakov (PT Swarm), March 23, 2026  
 - [GatewayToHeaven: Finding a Cross-Tenant Vulnerability in GCP's Apigee](https://omeramiad.com/posts/gatewaytoheaven-gcp-cross-tenant-vulnerability/) by Omer Amiad, Jan 28, 2026  
 - [CVE-2026-23958 Compromises Admin Accounts on DataEase ; Enterprise BI at Risk](https://www.ox.security/blog/blog-dataease-cve-2026-23958-admin-takeover/) by Nir Zadok and Eyal Paz, Jan 21, 2026   
 - [Do Smart People Ever Say They’re Smart? (SmarterTools SmarterMail Pre-Auth RCE CVE-2025-52691)](https://labs.watchtowr.com/do-smart-people-ever-say-theyre-smart-smartertools-smartermail-pre-auth-rce-cve-2025-52691/) by Piotr Bazydlo (@chudyPB) and Sina Kheirkhah (@SinSinology), Jan 8, 2026
