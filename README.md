@@ -85,8 +85,13 @@ A curated collection of vulnerability research articles and blog posts.
 - [Caido](https://caido.io/compare/burpsuite) - Modern alternative to Burp Suite  
 - [OWASP ZAP](https://www.zaproxy.org/) - Webapp scanner  
 - [URL validation bypass cheat sheet](https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet) 
-- [JSAnalyzer](https://github.com/jenish-sojitra/JSAnalyzer) - Burp extension for JavaScript static analysis  \
-- [Firecrawl](https://www.firecrawl.dev/playground?endpoint=scrape) - Scraping  
+- [JSAnalyzer](https://github.com/jenish-sojitra/JSAnalyzer) - Burp extension for JavaScript static analysis  
+- [Firecrawl](https://www.firecrawl.dev/playground?endpoint=scrape) - Scraping
+
+#### API  
+- APIStorm One (Not published yet)  
+- [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite  
+- [Fuzzapi (Depcrecated)](https://github.com/Fuzzapi/fuzzapi) - REST API pentesting   
 
 ### AI  
 - [AntiGravity](https://antigravity.google/download)
