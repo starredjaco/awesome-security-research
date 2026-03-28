@@ -50,6 +50,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ### Privilege Escalation  
+- [CVE-2026-20817 - Windows Error Reporting Service EoP](https://itm4n.github.io/cve-2026-20817-wersvc-eop/) by Clément Labro(itm4n), March 22, 2026  
 - [RIP RegPwn (CVE-2026-24291)](https://www.mdsec.co.uk/2026/03/rip-regpwn/) by Filip Dragovic (MDSec), March 13, 2026
 - [Total Recall – Retracing Your Steps Back to NT AUTHORITY\SYSTEM](https://www.mdsec.co.uk/2026/02/total-recall-retracing-your-steps-back-to-nt-authoritysystem/) by Filip Dragovic (MDSec), Feb 27, 2026  
 - [Who’s on the Line? Exploiting RCE in Windows Telephony Service](https://swarm.ptsecurity.com/whos-on-the-line-exploiting-rce-in-windows-telephony-service/) by Sergey Bliznyuk (PT Swarm), Jan 19, 2026  
@@ -89,6 +90,8 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## ☁️ Kubernetes & Cloud   
+- [AppArmor and Seccomp in Kubernetes: What the Docs Don’t Tell You](https://platformwale.blog/2026/03/20/apparmor-and-seccomp-in-kubernetes-what-the-docs-dont-tell-you/) March 20, 2026  
+- [Unpatchable Vulnerabilities of Kubernetes: CVE-2020-8561](https://securitylabs.datadoghq.com/articles/unpatchable-kubernetes-vulnerabilities-cve-2020-8561/) by Rory McCune, March 27, 2026  
 - [Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission](https://grahamhelton.com/blog/nodes-proxy-rce) by Graham Helton, Jan 26, 2026  
 - [What a Cluster: Local Volumes Vulnerability in Kubernetes](https://www.akamai.com/blog/security-research/kubernetes-local-volumes-command-injection-vulnerability-rce-system-privileges) by Tomer Peled, March 13, 2024
 - [Azure HDInsight: The Sequel – Unveiling 3 New Vulnerabilities That Could Have Led to Privilege Escalations and Denial of Service](https://orca.security/resources/blog/azure-hd-insight-vulnerabilities-privilege-escalation/) by Lidor Ben Shitrit (Orca), Feb 6, 2024  
@@ -302,6 +305,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---
 
 ## 🌀 Miscellaneous  
+- [LangDrained: 3 Paths to Your Data Through LangChain, the World’s Most Popular AI Framework](https://www.cyera.com/research/langdrained-3-paths-to-your-data-through-the-worlds-most-popular-ai-framework) by Vladimir Tokarev, March 26, 2026  
 - [Code Execution in Jupyter Notebook Exports](https://www.imperva.com/blog/code-execution-in-jupyter-notebook-exports/) by Yohann Sillam, Dec 16, 2025  
 - [Trust Me, I’m a Robot: Can We Trust RPA With Our Most Guarded Secrets?](https://www.cyberark.com/resources/threat-research-blog/trust-me-i-m-a-robot-can-we-trust-rpa-with-our-most-guarded-secrets) (🔥) by Nimrod Stoler
 - [CVE-2019-1306: Are you my Index?](https://www.zerodayinitiative.com/blog/2019/10/23/cve-2019-1306-are-you-my-index) by [Mikhail Shcherbakov](https://x.com/yu5k3)
