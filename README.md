@@ -61,7 +61,8 @@ A curated collection of vulnerability research articles and blog posts.
 - [DEF CON 30 - Billy Jheng, Muhammad Ramdhan - All Roads Lead to GKEs Host - 4+ Ways to Escape](https://www.youtube.com/watch?v=DcyjTlTIcMA) by Billy Jheng and Muhammad Ramdhan, Oct 20, 2022  
 
 ### Containers  
-- [HEXACON 2025 - CUDA de Grâce by Valentina Palmiotti & Samuel Lovejoy](https://www.youtube.com/watch?v=Lvz2_ZHj3lo&t=1s) by Valentina Palmiotti & Samuel Lovejoy, Nov 24, 2025  
+- [HEXACON 2025 - CUDA de Grâce by Valentina Palmiotti & Samuel Lovejoy](https://www.youtube.com/watch?v=Lvz2_ZHj3lo&t=1s) by Valentina Palmiotti & Samuel Lovejoy, Nov 24, 2025
+- [PancakesCon 5 - A Gentle Intro to Container Escapes and No-Clump Gravy](https://www.youtube.com/watch?v=Mj29HnlrraY) by Natalie Somersall, Jul 2, 2024  
 - [How to Use "Leaky Vessels" for Container Escape in #kubernetes w/ Jay Beale](https://www.youtube.com/watch?v=HCYv0q6Yu1w) by Jay Beale, Feb 21, 2024  
 - [Container Escape: All You Need Is Cap (Capabilities)](https://www.youtube.com/watch?v=iALZWtWwRyc) by Eran Ayalon and Ilan Sokol, June 7 2023  
 - [The COW (Container On Windows) Who Escaped the Silo](https://www.youtube.com/watch?v=e6oegr3cl4U) by Eran Segal, Nov 17, 2022
