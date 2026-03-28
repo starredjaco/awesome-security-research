@@ -24,6 +24,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## AI  
+- [Caught in the Hook: RCE and API Token Exfiltration Through Claude Code Project Files | CVE-2025-59536 | CVE-2026-21852](https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/) by Aviv Donenfeld and Oded Vanunu, Feb 25, 2026  
 - [N8Scape (Pyodide sandbox escape): 9.9 Critical Post-Auth RCE in n8n (CVE-2025-68668)](https://www.cyera.com/research-labs/n8scape-pyodide-sandbox-escape-9-9-critical-post-auth-rce-in-n8n-cve-2025-68668) by Vladimir Tokarev Ofek Itach, Jan 13, 2026
 - [BodySnatcher (CVE-2025-12420): A Broken Authentication and Agentic Hijacking Vulnerability in ServiceNow](https://appomni.com/ao-labs/bodysnatcher-agentic-ai-security-vulnerability-in-servicenow/) by Appomni, Jan 13, 2026  
 - [Ni8mare  -  Unauthenticated Remote Code Execution in n8n (CVE-2026-21858)](https://www.cyera.com/research-labs/ni8mare-unauthenticated-remote-code-execution-in-n8n-cve-2026-21858) by Dor Attias, Jan 7, 2026  
