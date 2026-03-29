@@ -56,6 +56,8 @@ A curated collection of vulnerability research articles and blog posts.
 - [DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), April 20, 2016   
 - [REcon 2015 - The movfuscator (Christopher Domas)](https://www.youtube.com/watch?v=2VF_wPkiBJY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax), Feb 17, 2016  
 
+### AI  
+- [Black-hat LLMs | [un]prompted 2026](https://www.youtube.com/watch?v=1sd26pWhfmg) by Nicholas Carlini, Mar 25, 2026  
 ### Kubernetes    
 - [Kubernetes Privilege Escalation: Container Escape == Cluster Admin?](https://www.youtube.com/watch?v=oc1tq_r6VNM) by Yuval Avrahami and Shaul Ben Hai, November 28, 2022
 - [DEF CON 30 - Billy Jheng, Muhammad Ramdhan - All Roads Lead to GKEs Host - 4+ Ways to Escape](https://www.youtube.com/watch?v=DcyjTlTIcMA) by Billy Jheng and Muhammad Ramdhan, Oct 20, 2022  
