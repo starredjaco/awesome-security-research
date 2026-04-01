@@ -83,6 +83,9 @@ A curated collection of vulnerability research articles and blog posts.
 ---  
 ## Tools  
 
+### Framework
+- [raptor](https://github.com/gadievron/raptor) - turns Claude Code into a general-purpose AI
+- 
 ### Web  
 - [CyberChef](https://gchq.github.io/CyberChef/)  
 - [Burp Suite](https://portswigger.net/burp) (free, the pro version is 💵)  
@@ -107,7 +110,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [CAI - Cyber Secyruty AI Framework](https://github.com/aliasrobotics/CAI)
 
 #### Skills
-- https://skills.sh/  
+- [skills.sh](https://skills.sh/) - Skills marketplace  
 - [railguard-skill](https://github.com/Netflix-Skunkworks/railguard-skill/tree/main)  
 
 
