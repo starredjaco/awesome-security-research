@@ -10,6 +10,7 @@ vulnerability discovery, exploit development, reversing, containers, Kubernetes,
 - [Talks & Videos](#talks--videos)
 - [Tools](#tools)
 - [CTFs](#ctfs)
+- [Learning Resources](#learn)
 
 ---
 ## Legend
@@ -108,6 +109,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [Claude](https://claude.ai/)  
 - [Cursor](https://cursor.com/)
 - [CAI - Cyber Secyruty AI Framework](https://github.com/aliasrobotics/CAI)
+- [claw-code](https://github.com/instructkr/claw-code) -  
 
 #### Skills
 - [skills.sh](https://skills.sh/) - Skills marketplace  
@@ -231,7 +233,12 @@ for learning real-world vulnerability research:
 - [exploit.education](https://exploit.education/) - Labs for Linux PWNs and Binary exploitation
 - [Crackmes.one](https://crackmes.one/) - Crackmes to improve reverse engineering skills.  
 ---
+## Learn  
+- [flare-learning-hub](https://github.com/mandiant/flare-learning-hub) - Free educational content on reverse engineering and malware analysis from the FLARE team
+- [exploitation-course](https://github.com/ashemery/exploitation-course) - Offensive Software Exploitation Course
 
+
+---
 ## Contributing
 
 Contributions are welcome! 🎉
