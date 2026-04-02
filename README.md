@@ -110,7 +110,8 @@ A curated collection of vulnerability research articles and blog posts.
 - [Claude](https://claude.ai/)  
 - [Cursor](https://cursor.com/)
 - [CAI - Cyber Secyruty AI Framework](https://github.com/aliasrobotics/CAI)
-- [claw-code](https://github.com/instructkr/claw-code) - Claucde code open source ported to Python  
+- [claw-code](https://github.com/instructkr/claw-code) - Claucde code open source ported to Python
+- [Heretic](https://github.com/p-e-w/heretic) - Censorship removal for language models  
 
 #### Skills
 - [skills.sh](https://skills.sh/) - Skills marketplace  
