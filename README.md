@@ -111,11 +111,12 @@ A curated collection of vulnerability research articles and blog posts.
 - [Cursor](https://cursor.com/)
 - [CAI - Cyber Secyruty AI Framework](https://github.com/aliasrobotics/CAI)
 - [claw-code](https://github.com/instructkr/claw-code) - Claucde code open source ported to Python
-- [Heretic](https://github.com/p-e-w/heretic) - Censorship removal for language models  
+- [Heretic](https://github.com/p-e-w/heretic) - Censorship removal for language models
+- [Security Reports RAG](https://github.com/n0n4m3x41/rag-enhancing-vuln-research) 
 
 #### Skills
 - [skills.sh](https://skills.sh/) - Skills marketplace  
-- [railguard-skill](https://github.com/Netflix-Skunkworks/railguard-skill/tree/main)  
+- [railguard-skill](https://github.com/Netflix-Skunkworks/railguard-skill/tree/main) by [Andrea B](https://www.linkedin.com/in/andrx/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B%2B1eJIy5OQBen6HF0HqrcXA%3D%3D)  
 
 
 ### Network  
