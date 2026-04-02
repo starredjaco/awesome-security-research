@@ -131,6 +131,9 @@ A curated collection of vulnerability research articles and blog posts.
 ### Fuzzing  
 - [jazzer.js](https://github.com/CodeIntelligenceTesting/jazzer.js) - Coverage-guided, in-process fuzzing for Node.js
 
+### .NET  
+- [DeReviewer](https://github.com/yuske/DeReviewer) by Mikhail Shcherbakov - (From the blog [CVE-2019-1306: Are you my Index?](https://www.zerodayinitiative.com/blog/2019/10/23/cve-2019-1306-are-you-my-index))  
+
 
 ### Windows  
 
