@@ -128,6 +128,10 @@ A curated collection of vulnerability research articles and blog posts.
 ### Mobile  
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) (🔥)
 
+### Fuzzing  
+- [jazzer.js](https://github.com/CodeIntelligenceTesting/jazzer.js) - Coverage-guided, in-process fuzzing for Node.js
+
+
 ### Windows  
 
 - [Faxhell - A Proof-of-Concept bind shell using the Fax service and a DLL hijack based on Ualapi.dll](https://github.com/ionescu007/faxhell)
