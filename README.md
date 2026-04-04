@@ -244,6 +244,7 @@ for learning real-world vulnerability research:
 - [Crackmes.one](https://crackmes.one/) - Crackmes to improve reverse engineering skills.  
 ---
 ## Learn  
+- [Appsec.FYI](https://appsec.fyi/) - a free curated library of application security resources
 - [flare-learning-hub](https://github.com/mandiant/flare-learning-hub) - Free educational content on reverse engineering and malware analysis from the FLARE team
 - [exploitation-course](https://github.com/ashemery/exploitation-course) - Offensive Software Exploitation Course
 - [Vulnerabilities 1001: C-Family Software Implementation Vulnerabilities](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1001_C-family+2023_v1/about)  
