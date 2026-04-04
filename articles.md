@@ -144,6 +144,13 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## 🐳 Containers  
+- [Container Escape Telemetry, Part 6: TeamPCP and What the Lab Predicted](https://catscrdl.io/blog/containerescapetelemetry/teampcp/) by Daniel Wyleczuk-Stern, March 31, 2026  
+- [Container Escape Telemetry, Part 5: Tuning eBPF Tools From Defaults to Detection](https://catscrdl.io/blog/containerescapetelemetry/tuning/) by Daniel Wyleczuk-Stern, March 31, 2026  
+- [Container Escape Telemetry, Part 4: Volume, Signal-to-Noise, and Choosing a Tool](https://catscrdl.io/blog/containerescapetelemetry/production/) by Daniel Wyleczuk-Stern, March 31, 2026  
+- [Container Escape Telemetry, Part 3: What Each Tool Actually Captured](https://catscrdl.io/blog/containerescapetelemetry/deepdives/) by Daniel Wyleczuk-Stern, March 31, 2026  
+- [Container Escape Telemetry, Part 2: Methodology and Tool Architecture](https://catscrdl.io/blog/containerescapetelemetry/methodology/) by Daniel Wyleczuk-Stern, March 31, 2026  
+- [Container Escape Telemetry, Part 1: Isolation Primitives and the eBPF Observability Model](https://catscrdl.io/blog/containerescapetelemetry/isolation/) by Daniel Wyleczuk-Stern, March 31, 2026  
+- [Container Escape Telemetry: Series Overview](https://catscrdl.io/blog/containerescapetelemetry/intro/) by Daniel Wyleczuk-Stern, March 31, 2026  
 - [HEXACON 2025 - CUDA de Grâce by Valentina Palmiotti & Samuel Lovejoy](https://docs.google.com/presentation/d/1FgfURpMyHhnflGWtxeq8ClPPaB5ZDCzT/edit?slide=id.p1#slide=id.p1) (🔥)  by Valentina Palmiotti & Samuel Lovejoy, Nov 24, 2025 - 🎥 [Talk](https://www.youtube.com/watch?v=Lvz2_ZHj3lo)
 - [Docker Container Escape by Exploiting CGroups](https://medium.com/@indigoshadowwashere/docker-container-escape-by-exploiting-cgroups-e52efab898d3) by Indigo Shadow, Nov 16, 2025  
 - [Fun-reliable side-channels for cross-container communication](https://h4x0r.org/funreliable/) by Ivan, Nov 12, 2025
