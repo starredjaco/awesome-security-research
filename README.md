@@ -59,7 +59,9 @@ A curated collection of vulnerability research articles and blog posts.
 
 ### AI  
 - [Source to Sink: Improving LLM Vuln Discovery | [un]prompted 2026](https://www.youtube.com/watch?v=bxwEZMhqeR0&t=85s) by Scott Behrens & Justice Cassel, Mar 25, 2026  
-- [Black-hat LLMs | [un]prompted 2026](https://www.youtube.com/watch?v=1sd26pWhfmg) by Nicholas Carlini, Mar 25, 2026  
+- [Black-hat LLMs | [un]prompted 2026](https://www.youtube.com/watch?v=1sd26pWhfmg) by Nicholas Carlini, Mar 25, 2026
+
+
 ### Kubernetes    
 - [Kubernetes Privilege Escalation: Container Escape == Cluster Admin?](https://www.youtube.com/watch?v=oc1tq_r6VNM) by Yuval Avrahami and Shaul Ben Hai, November 28, 2022
 - [DEF CON 30 - Billy Jheng, Muhammad Ramdhan - All Roads Lead to GKEs Host - 4+ Ways to Escape](https://www.youtube.com/watch?v=DcyjTlTIcMA) by Billy Jheng and Muhammad Ramdhan, Oct 20, 2022  
@@ -112,7 +114,8 @@ A curated collection of vulnerability research articles and blog posts.
 - [CAI - Cyber Secyruty AI Framework](https://github.com/aliasrobotics/CAI)
 - [claw-code](https://github.com/instructkr/claw-code) - Claucde code open source ported to Python
 - [Heretic](https://github.com/p-e-w/heretic) - Censorship removal for language models
-- [Security Reports RAG](https://github.com/n0n4m3x41/rag-enhancing-vuln-research) 
+- [Security Reports RAG](https://github.com/n0n4m3x41/rag-enhancing-vuln-research)
+- [WooYun Legacy](https://github.com/tanweai/wooyun-legacy/blob/main/README.en.md) - A Claude Code plugin built on 22,132 business logic vulnerability cases.   
 
 #### Skills
 - [skills.sh](https://skills.sh/) - Skills marketplace  
