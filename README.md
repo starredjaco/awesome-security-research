@@ -102,7 +102,8 @@ A curated collection of vulnerability research articles and blog posts.
 - APIStorm One (Not published yet)  
 - [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite  
 - [Fuzzapi (Depcrecated)](https://github.com/Fuzzapi/fuzzapi) - REST API pentesting
-- [Shannon](https://github.com/KeygraphHQ/shannon) - AI Pentester for Web Apps and APIs  
+- [Shannon](https://github.com/KeygraphHQ/shannon) - AI Pentester for Web Apps and APIs
+- [awesome-apisec](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. 
 
 ### AI  
 - [AntiGravity](https://antigravity.google/download)
@@ -250,7 +251,11 @@ for learning real-world vulnerability research:
 - [Appsec.FYI](https://appsec.fyi/) - a free curated library of application security resources
 - [flare-learning-hub](https://github.com/mandiant/flare-learning-hub) - Free educational content on reverse engineering and malware analysis from the FLARE team
 - [exploitation-course](https://github.com/ashemery/exploitation-course) - Offensive Software Exploitation Course
-- [Vulnerabilities 1001: C-Family Software Implementation Vulnerabilities](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1001_C-family+2023_v1/about)  
+- [Vulnerabilities 1001: C-Family Software Implementation Vulnerabilities](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1001_C-family+2023_v1/about)
+- [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) -  a list of bug bounty write-up that is categorized by the bug nature
+- [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+- [vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist)  
+
 
 ---
 ## Contributing
