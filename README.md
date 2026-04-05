@@ -116,7 +116,9 @@ A curated collection of vulnerability research articles and blog posts.
 - [claw-code](https://github.com/instructkr/claw-code) - Claucde code open source ported to Python
 - [Heretic](https://github.com/p-e-w/heretic) - Censorship removal for language models
 - [Security Reports RAG](https://github.com/n0n4m3x41/rag-enhancing-vuln-research)
-- [WooYun Legacy](https://github.com/tanweai/wooyun-legacy/blob/main/README.en.md) - A Claude Code plugin built on 22,132 business logic vulnerability cases.   
+- [WooYun Legacy](https://github.com/tanweai/wooyun-legacy/blob/main/README.en.md) - A Claude Code plugin built on 22,132 business logic vulnerability cases.
+- [Firecrawl](https://www.firecrawl.dev/) - Web Crawler with AI (💵)
+- [crawl4ai](https://github.com/unclecode/crawl4ai) - Web Crawler with Playright   
 
 #### Skills
 - [skills.sh](https://skills.sh/) - Skills marketplace  
