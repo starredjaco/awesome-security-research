@@ -35,6 +35,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ## 🪟 Windows   
+- [0x00 - Introduction to Windows Kernel Exploitation](https://wetw0rk.github.io/posts/0x00-introduction-to-windows-kernel-exploitation/) by Milton V (wetw0rk), Mar 17, 2026  
 - [Microsoft Windows Cloud Files Minifilter TOCTOU Privilege Escalation](https://blog.exodusintel.com/2025/10/20/microsoft-windows-cloud-files-minifilter-toctou-privilege-escalation/) by Michele Campa, Oct 20, 2025
 - [Dynamic Debugging of dotnet Without Source Code](https://pulsesecurity.co.nz/articles/dotnet-dynamic-analysis) by Denis Andzakovic, May 15, 2023  
 - [Finding Running RPC Server Information with NtObjectManager](https://www.tiraniddo.dev/2022/06/finding-running-rpc-server-information.html) by James Forshaw, Jun 26, 2022  
