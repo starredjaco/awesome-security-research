@@ -88,7 +88,7 @@ A curated collection of vulnerability research articles and blog posts.
 
 ### Framework
 - [raptor](https://github.com/gadievron/raptor) - turns Claude Code into a general-purpose AI
-- 
+
 ### Web  
 - [CyberChef](https://gchq.github.io/CyberChef/)  
 - [Burp Suite](https://portswigger.net/burp) (free, the pro version is 💵)  
@@ -234,6 +234,8 @@ A curated collection of vulnerability research articles and blog posts.
 - [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) - An operator to create Kubernetes secrets from Vault for a secure GitOps based workflow   
 
 *Most of the tools are taken from [awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security)  
+### Miscellaneous   
+- [CVE PoC](https://github.com/trickest/cve)
 
 ---
 
