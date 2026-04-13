@@ -115,7 +115,8 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Supply Chain Attack: CTX Account Takeover and PHPass Hijack Explained](https://orca.security/resources/blog/python-supply-chain-attack-ctx-phpass/) by Lidor Ben Shitrit (Orca), Jun 13, 2022  
 - [Kubernetes Pod Escape Using Log Mounts](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/) by Daniel Sagi (from Aqua)   
 - [Dirty DAG: New Vulnerabilities in Azure Data Factory’s Apache Airflow Integration](https://unit42.paloaltonetworks.com/azure-data-factory-apache-airflow-vulnerabilities/) by Ofir Balassiano and David Orlovsky (Palo)  
-- [SynLapse – Technical Details for Critical Azure Synapse Vulnerability](https://orca.security/resources/blog/synlapse-critical-azure-synapse-analytics-service-vulnerability/) by Tzah Pahima  
+- [SynLapse – Technical Details for Critical Azure Synapse Vulnerability](https://orca.security/resources/blog/synlapse-critical-azure-synapse-analytics-service-vulnerability/) by Tzah Pahima
+- [Container breakout: CAP_SYS_ADMIN via Creating a cgroup and using unshare utility](https://pswalia2u.medium.com/container-breakout-cap-sys-admin-via-creating-a-cgroup-daf8e4c7767f) by n00, May 6, 2022  
 - [Kubernetes container runtime CRI-O has make-me-root flaw](https://www.theregister.com/2022/03/15/cr8escape_container_runtime_bug/) by Jessica Lyons, March 15, 2022  
 - [Container Escape to Shadow Admin: GKE Autopilot Vulnerabilities](https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/) by Yuval Avrahami, March 8, 2022
 - [Oracle Server Side Request Forgery (SSRF) Metadata](https://orca.security/resources/blog/oracle-server-side-request-forgery-ssrf-attack-metadata/) by Lidor Ben Shitrit (Orca), Feb 8, 2022  
@@ -126,7 +127,8 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Tripping the Jenkins Main Security Circuit-Breaker: An Inside Look at Two Jenkins Security Vulnerabilities](https://www.cyberark.com/resources/threat-research-blog/tripping-the-jenkins-main-security-circuit-breaker-an-inside-look-at-two-jenkins-security-vulnerabilities) by Nimrod Stoler, Oct 12, 2018  
 - [Jenkins Plugins – Aladdin’s Lamp and the Sultan of Threats](https://www.cyberark.com/resources/threat-research-blog/jenkins-plugins-aladdin-s-lamp-and-the-sultan-of-threats) by Nimrod Stoler, Sep 26, 2018  
 - [CyberArk Labs Research: Securing Jenkins Java Web Start Agents](https://www.cyberark.com/resources/threat-research-blog/cyberark-labs-research-securing-jenkins-java-web-start-agents) by Nimrod Stoler, Sep 11, 2018   
-- [Configuring and Securing Credentials in Jenkins](https://www.cyberark.com/resources/threat-research-blog/configuring-and-securing-credentials-in-jenkins) by Nimrod Stoler, Aug 15, 2018  
+- [Configuring and Securing Credentials in Jenkins](https://www.cyberark.com/resources/threat-research-blog/configuring-and-securing-credentials-in-jenkins) by Nimrod Stoler, Aug 15, 2018
+- [False Boundaries and Arbitrary Code Execution](https://forums.grsecurity.net/viewtopic.php?f=7&t=2522) by spender, Jan 2, 2011  
   
 ### by Wiz  
 - [CodeBreach: Infiltrating the AWS Console Supply Chain and Hijacking AWS GitHub Repositories via CodeBuild](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild) by Yuval Avrahami, Jan 15, 2026  
