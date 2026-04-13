@@ -94,6 +94,7 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## ☁️ Kubernetes & Cloud   
+- [Double Agents: Exposing Security Blind Spots in GCP Vertex AI](https://unit42.paloaltonetworks.com/double-agents-vertex-ai/) by Ofir Shaty, Mar 31, 2026  
 - [AppArmor and Seccomp in Kubernetes: What the Docs Don’t Tell You](https://platformwale.blog/2026/03/20/apparmor-and-seccomp-in-kubernetes-what-the-docs-dont-tell-you/) March 20, 2026  
 - [Unpatchable Vulnerabilities of Kubernetes: CVE-2020-8561](https://securitylabs.datadoghq.com/articles/unpatchable-kubernetes-vulnerabilities-cve-2020-8561/) by Rory McCune, March 27, 2026  
 - [Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission](https://grahamhelton.com/blog/nodes-proxy-rce) by Graham Helton, Jan 26, 2026  
